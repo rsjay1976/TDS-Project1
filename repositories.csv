@@ -1,4 +1,42 @@
-login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
-krishnaik06,krishnaik06/Transformers-Materials,2024-10-19T15:43:30Z,7,7,,True,True,gpl-3.0
-krishnaik06,krishnaik06/ETLWeather,2024-10-15T10:45:09Z,8,8,Python,True,True,gpl-3.0
-krishnaik06,krishnaik06/datasets,2024-10-08T05:16:12Z,3,3,,True,True,gpl-3.0
+Row Labels,Count of language
+ANTLR,1
+Assembly,4
+Astro,1
+C,32
+C#,3
+C++,43
+Clojure,1
+CMake,1
+CoffeeScript,2
+CSS,61
+Dart,9
+Go,41
+Hack,1
+HTML,75
+Java,138
+JavaScript,221
+Jupyter Notebook,237
+Kotlin,25
+Makefile,3
+Markdown,1
+Matlab,3
+Objective-C,2
+OpenEdge ABL,1
+Perl,1
+PHP,20
+PLpgSQL,1
+Protocol Buffer,1
+Puppet,1
+Python,157
+Ruby,4
+Rust,1
+Scala,2
+Shell,15
+Solidity,1
+Swift,1
+TeX,1
+TypeScript,39
+VimL,1
+Vue,9
+(blank),
+Grand Total,1161
