@@ -15,5 +15,9 @@ Git hub users analysis repo
     
     6. Ran the second program which used the top100userscsv as input
     
-    7. Both the output as well as the programs have been checked in to this repo,
+    7. Both the output as well as the programs have been checked in to this repo.
+
+**Interesting/Surprising facts**
+
+   1. Only    
     
