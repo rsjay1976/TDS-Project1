@@ -1,42 +1,1949 @@
-Row Labels,Count of language
-ANTLR,1
-Assembly,4
-Astro,1
-C,32
-C#,3
-C++,43
-Clojure,1
-CMake,1
-CoffeeScript,2
-CSS,61
-Dart,9
-Go,41
-Hack,1
-HTML,75
-Java,138
-JavaScript,221
-Jupyter Notebook,237
-Kotlin,25
-Makefile,3
-Markdown,1
-Matlab,3
-Objective-C,2
-OpenEdge ABL,1
-Perl,1
-PHP,20
-PLpgSQL,1
-Protocol Buffer,1
-Puppet,1
-Python,157
-Ruby,4
-Rust,1
-Scala,2
-Shell,15
-Solidity,1
-Swift,1
-TeX,1
-TypeScript,39
-VimL,1
-Vue,9
-(blank),
-Grand Total,1161
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+krishnaik06,krishnaik06/Transformers-Materials,2024-10-19T15:43:30Z,7,7,,True,True,gpl-3.0
+krishnaik06,krishnaik06/ETLWeather,2024-10-15T10:45:09Z,8,8,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/datasets,2024-10-08T05:16:12Z,3,3,,True,True,gpl-3.0
+krishnaik06,krishnaik06/testdagshub,2024-10-01T16:57:42Z,0,0,,True,True,N/A
+krishnaik06,krishnaik06/dockerimagehub,2024-09-02T13:05:20Z,13,13,Python,True,False,N/A
+krishnaik06,krishnaik06/appgithubaction,2024-09-02T07:45:23Z,9,9,Python,True,True,N/A
+krishnaik06,krishnaik06/PythonProjectgithubaction,2024-09-02T07:43:59Z,4,4,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Complete-Langchain-Tutorials,2023-11-02T07:23:40Z,349,349,Jupyter Notebook,True,True,gpl-2.0
+krishnaik06,krishnaik06/Text-Summarization-NLP-Project,2023-05-28T02:47:29Z,147,147,Jupyter Notebook,True,True,mit
+krishnaik06,krishnaik06/Complete-Python-Bootcamp,2024-06-11T09:05:05Z,656,656,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Google-Gemini-Crash-Course,2024-01-11T17:21:30Z,231,231,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/bostonhousepricing,2022-07-21T09:33:28Z,109,109,Jupyter Notebook,True,True,apache-2.0
+krishnaik06,krishnaik06/The-Grand-Complete-Data-Science-Materials,2023-09-19T06:19:22Z,6802,6802,Python,True,True,gpl-2.0
+krishnaik06,krishnaik06/graph-dataset,2024-07-14T14:22:23Z,16,16,,True,True,apache-2.0
+krishnaik06,krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024,2024-06-02T10:41:33Z,702,702,Jupyter Notebook,True,True,mit
+krishnaik06,krishnaik06/Search-Engine-LLM,2024-07-09T12:34:32Z,15,15,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Search-Engine-With-LLm-and-Agents,2024-07-09T14:49:18Z,16,16,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/mlproject,2023-03-05T04:13:05Z,445,445,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Groq-Gen-AI,2024-07-03T05:09:27Z,12,12,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/ANN-CLassification-Churn,2024-06-29T07:43:37Z,6,6,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/testproject,2024-06-28T18:19:10Z,5,5,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024,2023-12-03T13:57:38Z,2566,2566,,True,False,gpl-3.0
+krishnaik06,krishnaik06/AWS-CI-CD-Projects,2023-04-05T05:51:30Z,60,60,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Crew-AI-Crash-course,2024-05-27T09:35:32Z,27,27,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Nvidia-NIM,2024-06-03T18:22:37Z,18,18,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/MLFLOW-Gen-AI,2024-06-02T14:50:56Z,20,20,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Huggingfacetransformer,2021-05-20T07:36:07Z,66,66,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Build-Gen-AI-With-Google-Gemini,2024-06-02T10:24:39Z,32,32,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/MLfLow,2024-06-02T06:23:57Z,5,5,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024,2023-12-11T11:43:22Z,3202,3202,,True,False,gpl-3.0
+krishnaik06,krishnaik06/CrewAI-Projects,2024-05-28T10:01:56Z,18,18,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Gen-AI-With-Hugging-Face,2024-05-25T09:49:42Z,35,35,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Updated-Langchain,2024-04-01T08:34:37Z,146,146,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/ML-Project,2024-05-14T15:53:01Z,18,18,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Finetuning-LLM,2024-05-07T09:34:00Z,71,71,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Generative-AI-With-Cloud,2024-05-01T13:38:42Z,141,141,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Flask-Web-Framework,2021-06-11T14:04:52Z,143,143,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Llamindex-Projects,2024-01-29T15:15:39Z,48,48,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Pytorch-Tutorial,2020-07-12T12:17:45Z,99,99,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/AI-Engineer-Roadmap-2024,2024-04-05T06:57:53Z,555,555,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Audio-Classification,2021-03-31T10:06:19Z,92,92,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Langchain-Tutorials,2023-06-13T16:03:07Z,41,41,Python,True,True,N/A
+krishnaik06,krishnaik06/Langserve-Demo,2024-03-21T07:42:36Z,13,13,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Stock-Sentiment-Analysis,2019-06-23T14:02:43Z,145,145,Jupyter Notebook,True,True,apache-2.0
+krishnaik06,krishnaik06/Langsmith,2024-03-19T07:02:04Z,5,5,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Movie-Recommender-in-python,2019-02-02T18:23:48Z,179,179,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Data-Science-Gen-AI-Playlist-2024,2024-03-12T12:18:11Z,605,605,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Code-Assistant-Code-Assistant,2024-03-09T10:36:00Z,22,22,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Data-Science-Projects-For-Resumes,2024-02-22T10:19:17Z,1290,1290,,True,True,gpl-3.0
+krishnaik06,krishnaik06/AWS-Bedrock,2024-02-04T12:41:25Z,43,43,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/5-Days-Live-EDA-and-Feature-Engineering,2022-02-17T09:03:19Z,190,190,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Interview-Prepartion-Data-Science,2020-09-21T07:35:13Z,964,964,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Roadmap-To-Become-Data-Analyst-2024,2024-01-02T06:02:43Z,334,334,,True,False,gpl-3.0
+krishnaik06,krishnaik06/6-Months-Data-Science-Roadmap-,2023-01-07T06:41:22Z,1745,1745,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Invoice-Extractor-LLM-APP,2023-12-26T13:16:45Z,32,32,Python,True,False,gpl-3.0
+krishnaik06,krishnaik06/End-To-End-Gemini-Project,2023-12-21T10:22:58Z,53,53,Python,True,False,gpl-3.0
+krishnaik06,krishnaik06/Data-Analyst-Roadmap,2023-01-10T04:57:10Z,739,739,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Deep-Learning-Hindi,2023-12-01T14:43:48Z,12,12,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Python-Practise-Problems,2021-08-02T05:50:12Z,600,600,,True,True,gpl-3.0
+krishnaik06,krishnaik06/FastAPI,2020-11-18T11:52:05Z,80,80,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project,2023-09-25T09:13:25Z,104,104,Jupyter Notebook,True,True,mit
+krishnaik06,krishnaik06/mlprojecthindi,2023-08-21T15:22:45Z,39,39,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Complete-Machine-Learning-2023,2023-09-03T06:27:56Z,90,90,Jupyter Notebook,True,True,gpl-2.0
+krishnaik06,krishnaik06/sql-test,2023-08-17T17:24:43Z,19,19,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Trnasformer-Bert,2021-05-27T13:33:37Z,59,59,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/practisegit,2023-07-24T11:18:32Z,10,10,Python,True,True,N/A
+krishnaik06,krishnaik06/flaskineuron,2023-07-23T05:41:25Z,19,19,Python,True,True,N/A
+krishnaik06,krishnaik06/mlflowexperiments,2023-07-22T17:21:56Z,14,14,Python,True,True,N/A
+krishnaik06,krishnaik06/gitpractise,2023-07-22T04:16:52Z,9,9,Python,True,True,N/A
+krishnaik06,krishnaik06/testmlflow,2023-07-21T05:51:19Z,3,3,Python,True,False,N/A
+krishnaik06,krishnaik06/DiamondPricePrediction1,2023-05-04T18:58:57Z,30,30,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Tutorials-Python-In-Hindi,2022-01-28T09:09:07Z,86,86,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/OPENAI-API-Tutorials,2023-06-30T13:04:12Z,38,38,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/playstore-Dataset,2023-03-07T11:09:03Z,6,6,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Diabetes-Prediction-With-deployment,2023-03-27T20:14:27Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/MLAWS-SagemakerProject,2023-06-23T18:24:28Z,22,22,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Prompt-Engineering-LangChain,2023-06-15T09:29:03Z,25,25,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Chicken-Disease-Classification-Projects,2023-06-02T15:41:05Z,76,76,Jupyter Notebook,True,True,mit
+krishnaik06,krishnaik06/End-To-End-NLP-Project-Text-Summarization,2023-05-28T02:46:24Z,7,7,,True,True,N/A
+krishnaik06,krishnaik06/Deployment-flask,2019-06-16T08:21:53Z,295,295,CSS,True,True,N/A
+krishnaik06,krishnaik06/DiamondPricePrediction2,2023-05-05T17:56:51Z,9,9,Python,True,True,N/A
+krishnaik06,krishnaik06/FSDSRegression,2023-04-02T10:53:02Z,24,24,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Cotton-Disease-Prediction-Deep-Learning,2020-08-22T14:22:02Z,102,102,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Student-Performance-Azure-deployment,2023-04-13T06:49:35Z,20,20,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Flight-Price-Prediction1,2023-03-18T11:44:51Z,30,30,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/ML-Project-Azure,2023-04-12T05:00:49Z,12,12,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Diabetes-Deployment-With-BeanStalk,2023-03-27T20:46:19Z,11,11,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Studentmlprojectregression,2023-03-31T14:40:39Z,19,19,Jupyter Notebook,True,True,apache-2.0
+krishnaik06,krishnaik06/Students-MLProjectsRegression,2023-03-31T14:32:18Z,2,2,,True,True,N/A
+krishnaik06,krishnaik06/Docker-For-Data-Science,2023-03-29T12:54:45Z,46,46,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Visualize-Multiple-Linear-Regression,2019-06-18T07:29:41Z,13,13,Python,True,True,N/A
+krishnaik06,krishnaik06/algearianforestfire,2023-03-14T17:48:13Z,3,3,Jupyter Notebook,True,False,N/A
+krishnaik06,krishnaik06/testflask,2023-03-14T15:48:32Z,5,5,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/testforestfires,2023-03-15T19:49:15Z,3,3,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/forestfire,2023-03-15T16:37:27Z,3,3,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/beanstalk,2023-03-13T09:51:49Z,2,2,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/FlaskLive,2023-02-05T09:41:05Z,23,23,CSS,True,True,gpl-3.0
+krishnaik06,krishnaik06/Heroku-Demo,2019-08-25T12:54:02Z,106,106,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Avgword2vec-Implementation,2023-01-29T11:27:57Z,10,10,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Machine-Learning-Algorithms-Materials,2022-02-04T12:14:08Z,396,396,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/PCA-Geometrical-And-Mathematical-Intuition,2023-01-15T08:10:56Z,24,24,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Machine-Learning-in-90-days,2019-09-23T17:17:35Z,1251,1251,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Credit-Card-Fraudlent,2019-06-25T10:27:19Z,165,165,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Car-Price-Prediction,2020-06-30T08:41:03Z,263,263,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Malaria-Detection,2019-07-15T13:59:16Z,154,154,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Deep-Learning-Car-Brand,2020-07-01T12:04:29Z,110,110,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Image-Webscrapper,2020-01-04T16:14:54Z,36,36,Python,True,True,N/A
+krishnaik06,krishnaik06/Kubernet-Dockers,2020-06-22T08:18:01Z,14,14,CSS,True,True,N/A
+krishnaik06,krishnaik06/WaferFaultDetection,2020-04-13T05:52:05Z,30,30,Python,True,True,N/A
+krishnaik06,krishnaik06/Weather-Chatbot-Using-Luis,2020-04-01T07:00:50Z,39,39,Python,True,True,N/A
+krishnaik06,krishnaik06/Google-Dialogflow-chatbots,2020-03-27T10:12:04Z,29,29,HTML,True,True,N/A
+krishnaik06,krishnaik06/Phising-Classifier,2020-02-22T09:44:41Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/AzureDeployment,2020-01-16T16:44:16Z,24,24,CSS,True,True,N/A
+krishnaik06,krishnaik06/Test,2020-01-16T12:47:36Z,6,6,CSS,True,True,N/A
+krishnaik06,krishnaik06/Google-Cloud-Platform-Deployment,2020-01-12T09:07:50Z,46,46,CSS,True,True,N/A
+krishnaik06,krishnaik06/test-endtoend,2022-11-11T07:52:41Z,9,9,Python,True,True,N/A
+krishnaik06,krishnaik06/test-data-science-project,2022-11-11T07:44:32Z,3,3,,True,True,N/A
+krishnaik06,krishnaik06/SVM-kernel-and-ROC-AUC-Curve,2022-10-30T10:25:15Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/sensor-fault-detection,2022-10-16T04:54:58Z,6,6,Python,True,True,N/A
+krishnaik06,krishnaik06/Fake-New-LSTM,2020-05-19T15:41:02Z,92,92,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/EDA-Used-CAr-PRediction,2022-10-01T10:55:14Z,20,20,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/ineuronindustry,2022-10-01T05:01:34Z,5,5,Python,True,True,N/A
+krishnaik06,krishnaik06/gittest,2022-09-28T08:52:11Z,2,2,,True,True,N/A
+krishnaik06,krishnaik06/Dockers,2020-05-16T12:02:29Z,122,122,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Pipeline-MAchine-Learning,2022-09-01T12:12:52Z,39,39,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Trackersheet-For-Leaning-Data-Science,2022-08-27T11:45:41Z,50,50,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Gender-Recognition-and-Age-Estimator,2019-02-25T12:54:02Z,75,75,Python,True,True,N/A
+krishnaik06,krishnaik06/ANN-Implementation,2022-08-21T04:19:06Z,15,15,,True,True,N/A
+krishnaik06,krishnaik06/3-Months-RoadMap-For-Data-Science,2022-08-18T15:50:22Z,238,238,,True,True,gpl-3.0
+krishnaik06,krishnaik06/NLP-In-Hindi,2022-06-21T12:17:45Z,10,10,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Application,2022-07-25T04:41:54Z,4,4,,True,True,gpl-3.0
+krishnaik06,krishnaik06/gittutorials,2022-07-23T13:22:45Z,6,6,,True,True,N/A
+krishnaik06,krishnaik06/testgit1,2022-07-23T11:15:48Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/testgit,2022-07-23T09:45:55Z,2,2,,True,True,N/A
+krishnaik06,krishnaik06/Stock-MArket-Forecasting,2020-05-25T14:00:36Z,242,242,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/machinelearningproject,2022-06-30T10:04:09Z,20,20,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/NLP-Live,2022-06-22T13:23:12Z,42,42,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/ARIMA-And-Seasonal-ARIMA,2020-03-19T06:18:14Z,202,202,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Airfoil-Regression-With-Deployment,2022-05-29T05:50:20Z,21,21,HTML,True,True,gpl-3.0
+krishnaik06,krishnaik06/Complete-Deep-Learning-With-Materials,2022-05-25T07:54:15Z,57,57,,True,True,gpl-3.0
+krishnaik06,krishnaik06/HousePricePrediction,2022-05-10T09:54:39Z,20,20,Shell,True,True,gpl-3.0
+krishnaik06,krishnaik06/Live-Time-Series,2022-02-25T14:33:50Z,97,97,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Natural-Language-Processing,2019-01-01T17:03:58Z,234,234,Python,True,True,N/A
+krishnaik06,krishnaik06/RegressionandLasso,2019-12-11T18:03:29Z,86,86,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Python-Tutorials-In-Hindi,2022-01-28T09:08:07Z,4,4,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Mysql-Complete-Playlist,2022-01-10T12:51:51Z,36,36,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Keras-Tuner,2020-10-17T19:44:20Z,51,51,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Finding-an-Outlier,2019-07-13T12:15:38Z,119,119,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Feature-Engineering-Live-sessions,2020-07-13T14:47:59Z,407,407,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Advanced-House-Price-Prediction-,2020-01-31T05:39:25Z,382,382,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/EDA1,2019-01-17T17:25:53Z,223,223,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/PysparkRegressions,2018-06-06T18:07:57Z,27,27,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/MediaPipe,2021-07-23T15:28:17Z,43,43,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Media-Pipe,2021-07-23T15:27:47Z,6,6,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Data-Analyst-Skill-With-Videos-in-2021,2021-07-20T03:53:13Z,368,368,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Deployment-Deep-Learning-Model,2019-06-17T17:04:35Z,108,108,Python,True,True,N/A
+krishnaik06,krishnaik06/Django-Series,2021-06-29T12:10:33Z,19,19,,True,True,gpl-3.0
+krishnaik06,krishnaik06/stats-sessions,2021-06-20T09:36:58Z,32,32,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Image-Segmentation-Using-Pixellib,2021-06-20T06:00:21Z,26,26,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Flask-Heroku,2021-06-13T07:44:21Z,20,20,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Pywebheroku,2021-04-19T07:17:39Z,13,13,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Pyspark-With-Python,2021-05-04T07:22:22Z,460,460,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Types-Of-Cross-Validation,2021-04-28T12:32:30Z,57,57,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Autoviz,2021-04-25T13:42:30Z,18,18,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Autoscrapper,2021-04-22T13:49:15Z,44,44,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Types-Of-Trnasformation,2021-04-21T13:21:22Z,83,83,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Custom-object-Detection,2021-04-17T04:41:32Z,10,10,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Gradio,2021-04-16T08:33:51Z,11,11,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/EVALML,2021-04-14T07:54:29Z,24,24,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Shapash-,2021-04-06T10:52:07Z,17,17,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Car-PricePrediction,2021-04-05T17:01:47Z,27,27,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/BMI-Calculator,2021-04-04T07:48:54Z,15,15,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/PyWebIO,2021-04-03T10:51:57Z,20,20,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/texthero,2021-03-25T08:29:47Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/AQI-Deployment,2019-12-29T11:20:25Z,9,9,HTML,True,True,gpl-3.0
+krishnaik06,krishnaik06/NLP-Deployment-Heroku,2019-10-04T08:05:00Z,28,28,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/Deployment-Heroku,2019-08-23T07:12:46Z,8,8,CSS,True,True,gpl-3.0
+krishnaik06,krishnaik06/mlops,2021-03-19T06:44:49Z,13,13,Python,True,True,N/A
+krishnaik06,krishnaik06/Assignments,2021-03-13T12:18:29Z,8,8,,True,True,N/A
+krishnaik06,krishnaik06/SVM-Kernels,2021-03-10T13:19:09Z,27,27,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Face-Recognition-Attendance-Projects,2021-03-02T12:49:22Z,100,100,Python,True,True,N/A
+krishnaik06,krishnaik06/SHA-Algorithms-Blockchain,2021-02-26T15:26:32Z,10,10,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Transfer-Learning,2019-02-21T13:38:14Z,71,71,Python,True,True,N/A
+krishnaik06,krishnaik06/Pdf-Encryption,2021-02-13T15:08:03Z,9,9,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/TFOD,2021-02-11T15:26:54Z,17,17,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/GIMBlockchainDemo,2021-01-13T12:00:55Z,12,12,Python,True,True,N/A
+krishnaik06,krishnaik06/Competitive-Programming,2020-03-10T17:13:39Z,34,34,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Complete-Deep-Learning,2019-08-05T13:43:27Z,128,128,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Complete-Feature-Selection,2020-09-30T06:28:48Z,180,180,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/cottoninception,2021-01-14T15:16:22Z,5,5,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/BlockChainDemo,2021-01-13T12:00:12Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/AWS,2021-01-06T15:57:21Z,23,23,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/SpamClassifier,2019-01-14T14:41:08Z,58,58,Python,True,True,N/A
+krishnaik06,krishnaik06/cats-dogs,2020-12-06T06:45:23Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Lime-Model-Interpretation,2020-11-30T07:14:08Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Ineuron-ANN,2020-11-29T04:32:26Z,15,15,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Ineuron-Test,2020-11-28T16:06:28Z,17,17,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/CPU-Multi-Cores,2020-11-24T13:38:40Z,12,12,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Cutom-Ensemble-ML,2020-11-22T07:46:16Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/ImbalancedNeural-Network,2020-11-21T06:53:43Z,9,9,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Augmented-Reality,2020-10-28T03:33:58Z,10,10,,True,True,N/A
+krishnaik06,krishnaik06/Julia-Programming-With-MAchine-Learning,2020-10-25T10:30:08Z,8,8,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Tomato-Leaf-Disease-Prediction,2020-08-27T19:26:00Z,110,110,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Reinforcement-Learning,2020-10-27T12:31:18Z,20,20,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Tensorddash,2020-10-23T14:40:08Z,6,6,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/NYC-Taxi-Fares-Prediction,2020-07-29T14:20:55Z,41,41,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Hidden-Layers-Neurons,2019-07-11T12:30:19Z,49,49,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Machine-Learning-Retraining-Approaches,2020-10-03T14:43:58Z,27,27,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Dtale,2020-09-30T17:08:02Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Gaussian-Trnasformaion,2020-04-09T14:31:11Z,59,59,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Computer-Vision-Tutorial,2019-01-19T12:55:50Z,74,74,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/simple-Linear-Regression,2018-06-01T05:19:44Z,57,57,Python,True,True,N/A
+krishnaik06,krishnaik06/pandas-visual-analysis,2020-09-29T08:50:09Z,32,32,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Live-Co---vid-Tracker,2020-09-17T13:15:01Z,17,17,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Live-Corona-Tracker-And-Analysis1,2020-09-17T12:52:42Z,6,6,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Live-Corona-Tracker-And-Analysis,2020-09-17T12:51:36Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/MongoDb-with-Python,2020-02-29T06:22:34Z,43,43,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Advanced-CNN-Architectures,2020-09-10T16:14:51Z,46,46,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/MySQL-With-Python,2020-09-10T05:04:45Z,36,36,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/SStain_classification,2020-09-03T08:53:52Z,6,6,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/AWS-SageMaker,2020-08-28T22:05:19Z,68,68,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Silhouette-clustering-,2020-08-25T13:10:30Z,55,55,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Stains,2020-08-17T06:49:04Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/Stain-Classification,2020-08-17T06:48:32Z,5,5,,True,True,N/A
+krishnaik06,krishnaik06/Types-of-Crossvalidation,2020-08-06T14:22:10Z,34,34,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Handle-Imbalanced-Dataset,2019-06-27T14:34:00Z,118,118,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/AQI-Project,2019-12-02T17:06:56Z,116,116,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/PyCaret-Live-sessions,2020-07-26T15:41:33Z,11,11,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/All-Hyperparamter-Optimization,2020-07-23T14:05:38Z,108,108,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/FbProphet,2020-07-18T20:08:10Z,29,29,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/FAQ-RASA-NLU,2020-04-06T12:43:56Z,26,26,Python,True,True,N/A
+krishnaik06,krishnaik06/IPL,2020-07-04T13:22:05Z,32,32,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/R-Programming-Tutorial,2020-06-30T22:01:44Z,14,14,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Banking-Domain,2020-06-26T06:12:43Z,14,14,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Streamlit,2020-06-18T07:33:14Z,6,6,,True,True,N/A
+krishnaik06,krishnaik06/Post_Pruning_DecisionTre,2020-06-14T11:24:42Z,30,30,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/DL-Project-For-Beginner,2020-06-12T06:58:39Z,39,39,Python,True,True,N/A
+krishnaik06,krishnaik06/circle_ci,2020-06-11T16:52:55Z,2,2,,True,True,N/A
+krishnaik06,krishnaik06/Time-Series-Forecasting,2020-05-23T11:38:45Z,62,62,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/EDA_Sweetviz,2020-06-06T14:09:03Z,24,24,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/VAEX_Big-Data,2020-06-04T14:20:28Z,14,14,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Pandas-Profiling-EDA,2020-06-03T15:00:58Z,40,40,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/K-Nearest-Neighour,2019-06-18T11:49:21Z,66,66,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/tensorflow,2020-05-26T13:35:15Z,8,8,C++,True,False,apache-2.0
+krishnaik06,krishnaik06/Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Networ,2018-07-06T03:53:33Z,163,163,Python,True,True,N/A
+krishnaik06,krishnaik06/AirLines-Passengers-Forecasting-LSTM,2020-05-25T08:17:12Z,17,17,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Pipelines-Using-Sklearn,2020-01-14T16:34:24Z,63,63,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Word-Embedding,2020-05-10T07:31:31Z,25,25,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/InsuranceFraudDetection,2020-05-07T09:26:01Z,37,37,,True,True,N/A
+krishnaik06,krishnaik06/Develop-Multi-Output-Regression-Models,2020-05-01T06:06:44Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Anomaly-Pycaret,2020-04-27T07:01:13Z,20,20,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Fake-News-Classifier,2020-04-05T10:39:07Z,92,92,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/PowerBI,2020-04-10T08:11:17Z,16,16,,True,True,N/A
+krishnaik06,krishnaik06/Tableau-datasets,2020-04-01T10:08:23Z,10,10,,True,True,N/A
+krishnaik06,krishnaik06/Multicollinearity,2020-03-29T18:38:32Z,17,17,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Deep-Learning-Face-Recognition,2020-03-17T14:16:56Z,69,69,Python,True,True,N/A
+krishnaik06,krishnaik06/Amazon-use-cases,2020-03-12T13:08:58Z,23,23,,True,True,N/A
+krishnaik06,krishnaik06/Weather-Visibility-Project,2020-03-11T15:00:40Z,24,24,,True,True,N/A
+krishnaik06,krishnaik06/T-test-an-Correlation-using-python,2020-01-23T12:57:47Z,108,108,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Sales-Chatbot,2020-02-23T10:32:52Z,19,19,Python,True,True,N/A
+krishnaik06,krishnaik06/resume,2020-02-22T14:33:54Z,8,8,,True,True,N/A
+krishnaik06,krishnaik06/Flight-Price-Prediction,2020-01-30T18:11:21Z,40,40,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Machine-LEarning-PAssword-,2020-01-20T19:54:08Z,13,13,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/TPOT-AUTOML,2019-12-26T05:11:54Z,9,9,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Git-Tutorial,2019-12-23T09:21:19Z,10,10,,True,True,N/A
+krishnaik06,krishnaik06/Ridge-and-LAsso,2019-12-11T18:02:56Z,6,6,,True,True,N/A
+krishnaik06,krishnaik06/Web-Scrapping-Wikipedia,2019-12-05T16:48:37Z,13,13,Python,True,True,N/A
+krishnaik06,krishnaik06/IRIS,2019-11-23T18:21:44Z,13,13,Jupyter Notebook,True,True,apache-2.0
+krishnaik06,krishnaik06/Deployment-Deep-Learning-Heroku,2019-10-09T05:35:22Z,9,9,,True,True,gpl-3.0
+krishnaik06,krishnaik06/Liear-Practise,2019-09-07T03:57:52Z,5,5,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Complete-Feature-Engineering,2019-09-12T07:39:19Z,86,86,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Kaggle-Competitions,2019-09-08T12:37:33Z,124,124,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Youtube-Heroku-Demo,2019-08-25T12:27:59Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/K-Means-Materials,2019-08-11T06:21:42Z,17,17,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Recommendation_complete_tutorial,2019-07-31T13:33:16Z,162,162,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Diabetes-Prediction,2019-07-12T13:43:16Z,81,81,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Credit_Card-Risk-assessment,2019-07-09T10:35:16Z,22,22,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/KNN-projects,2019-07-06T06:22:09Z,16,16,Python,True,True,gpl-3.0
+krishnaik06,krishnaik06/DNA-Sequencing-Classifier,2019-06-28T14:31:32Z,42,42,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Hyperparameter-Optimization,2019-06-26T12:49:17Z,65,65,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/folium,2019-06-26T06:06:05Z,2,2,Python,True,True,mit
+krishnaik06,krishnaik06/Predicitng-Lungs-Disease-,2019-06-22T12:44:12Z,28,28,Jupyter Notebook,True,True,gpl-3.0
+krishnaik06,krishnaik06/Predicting-Heart-Disease,2019-06-21T12:44:34Z,81,81,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/NLP-Model-Deployment,2019-06-16T14:48:33Z,15,15,Python,True,True,N/A
+krishnaik06,krishnaik06/Amazon-Review-Scraper,2019-12-15T05:23:47Z,7,7,,True,True,mit
+krishnaik06,krishnaik06/Feature-Selection-techniques,2019-06-11T15:27:22Z,173,173,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/DBSCAN-Algorithm,2019-06-05T14:48:26Z,24,24,Python,True,True,N/A
+krishnaik06,krishnaik06/Data-Science-interview,2019-05-26T13:56:03Z,21,21,,True,True,N/A
+krishnaik06,krishnaik06/Data-Science-Interview-questions,2019-05-26T13:55:41Z,13,13,,True,True,N/A
+krishnaik06,krishnaik06/Categorical-Features,2019-05-24T15:30:17Z,18,18,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Yawn-Detector,2019-05-02T14:39:37Z,6,6,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/GAN,2019-04-17T13:51:59Z,18,18,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Deep-Learning-in-Medical-Science,2019-04-04T13:33:03Z,16,16,Python,True,True,N/A
+krishnaik06,krishnaik06/Geographical-Plotting,2019-03-12T19:02:08Z,8,8,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/sketch_roi,2019-03-03T17:06:47Z,6,6,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/MLPPTS,2018-10-13T12:59:03Z,8,8,,True,True,N/A
+krishnaik06,krishnaik06/Unlock-Application,2019-02-26T14:12:19Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/K-NEarest-Neighbor,2019-02-12T14:52:31Z,41,41,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/RandomizedSearchCV,2019-02-09T08:13:34Z,21,21,Python,True,True,N/A
+krishnaik06,krishnaik06/GRIDSearchCV,2019-02-08T15:59:54Z,28,28,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Predict_customer_Will_Leave_the-Bank,2019-02-06T14:46:59Z,10,10,Python,True,True,N/A
+krishnaik06,krishnaik06/Dimesnsionality-Reduction,2019-02-02T08:00:37Z,47,47,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Multiple-Linear-Regression,2019-01-31T16:17:27Z,68,68,Python,True,True,N/A
+krishnaik06,krishnaik06/Visualizing_Tree,2019-01-31T13:55:43Z,10,10,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Decision-Tree-Visualization,2019-01-31T13:54:57Z,9,9,,True,True,N/A
+krishnaik06,krishnaik06/AI,2019-01-28T03:33:49Z,11,11,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/OpenFace,2019-01-22T15:05:10Z,15,15,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/FaceRecognition,2019-01-14T16:27:52Z,9,9,,True,True,N/A
+krishnaik06,krishnaik06/Computer-Vision-Advanced,2018-12-21T07:29:44Z,44,44,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Computer-Vision-,2018-12-18T07:11:41Z,16,16,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/EDA,2018-12-16T05:40:46Z,23,23,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Recommendation,2018-12-03T07:01:21Z,6,6,Python,True,True,N/A
+krishnaik06,krishnaik06/machine_learning_examples,2018-12-05T10:59:22Z,22,22,Python,True,True,N/A
+krishnaik06,krishnaik06/Machine-Learning-,2018-09-13T13:00:29Z,12,12,,True,True,N/A
+krishnaik06,krishnaik06/model_selections,2018-09-04T16:15:42Z,26,26,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Model_selection,2018-09-04T16:15:17Z,10,10,,True,True,N/A
+krishnaik06,krishnaik06/Arima,2018-07-31T15:55:34Z,7,7,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Principle-Component-Analysis,2018-07-02T14:55:26Z,59,59,Jupyter Notebook,True,True,N/A
+krishnaik06,krishnaik06/Movies-Reviews-Sentiment-Analysis,2018-06-28T09:04:42Z,12,12,Python,True,True,N/A
+krishnaik06,krishnaik06/Movie-Reviews-Sentiment-Analysis,2018-06-28T09:04:22Z,7,7,,True,True,N/A
+krishnaik06,krishnaik06/Polynomial-Linear-Regression,2018-06-01T05:26:26Z,23,23,Python,True,True,N/A
+krishnaik06,krishnaik06/Pyspark-Regression,2018-06-06T18:04:01Z,4,4,,True,True,N/A
+krishnaik06,krishnaik06/DataPreprocess,2018-06-01T12:40:22Z,10,10,Python,True,True,N/A
+krishnaik06,krishnaik06/Hierarchical-Clutsering,2018-06-01T05:51:54Z,9,9,Python,True,True,N/A
+krishnaik06,krishnaik06/K-Means-clustering,2018-06-01T05:48:57Z,21,21,Python,True,True,N/A
+krishnaik06,krishnaik06/Xgboost,2018-06-01T05:29:45Z,25,25,Python,True,True,N/A
+krishnaik06,krishnaik06/Random-Forest-Regression,2018-06-01T05:28:17Z,21,21,Python,True,True,N/A
+krishnaik06,krishnaik06/The-Best-ChatBot,2018-02-19T13:29:15Z,5,5,,True,True,N/A
+krishnaik06,krishnaik06/chatbot,2018-02-19T13:12:59Z,4,4,,True,True,N/A
+championswimmer,championswimmer/LeetCode-VSCode,2022-11-24T10:00:12Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/system-design-product-architecture,2024-09-01T11:55:58Z,8,8,,True,True,unlicense
+championswimmer,championswimmer/twitter-threads,2022-08-05T09:23:57Z,6,6,,True,True,N/A
+championswimmer,championswimmer/ParkingLot-LLD-Kotlin-MPP,2022-12-27T05:17:13Z,15,15,Kotlin,True,True,N/A
+championswimmer,championswimmer/oh-my-zsh,2017-10-11T12:52:33Z,19,19,Shell,True,True,mit
+championswimmer,championswimmer/onepixel_backend,2023-07-24T21:39:27Z,167,167,Go,True,True,N/A
+championswimmer,championswimmer/hashnode-backups,2022-04-21T21:12:57Z,1,1,,False,False,N/A
+championswimmer,championswimmer/uses.page,2024-08-04T08:46:58Z,3,3,TypeScript,True,True,N/A
+championswimmer,championswimmer/hackattic-go,2024-08-04T20:37:20Z,0,0,Go,True,True,N/A
+championswimmer,championswimmer/grabatar-co-netlify,2023-06-05T21:24:18Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/sharetime.zone,2022-06-14T21:16:23Z,12,12,Vue,True,True,N/A
+championswimmer,championswimmer/championswimmer.github.io,2013-07-15T21:57:16Z,3,3,CSS,True,True,N/A
+championswimmer,championswimmer/arnavg.in,2024-05-27T19:41:13Z,0,0,HTML,True,False,N/A
+championswimmer,championswimmer/authentication-authorization-20240717,2024-07-17T15:41:24Z,8,8,,True,True,N/A
+championswimmer,championswimmer/uri_parser_workshop_go,2024-05-01T16:56:28Z,2,2,Go,True,True,N/A
+championswimmer,championswimmer/url-parser-workshop-typescript,2024-05-01T10:46:38Z,4,4,TypeScript,True,True,N/A
+championswimmer,championswimmer/API_DB_Design_2024-03-15,2024-03-14T19:07:50Z,3,3,,True,True,N/A
+championswimmer,championswimmer/REST_API_Design_2024-03-16,2024-03-16T06:40:23Z,47,47,,True,True,N/A
+championswimmer,championswimmer/kmp-awesome,2024-04-07T11:28:06Z,2,2,,True,False,N/A
+championswimmer,championswimmer/conduit-expo-gluestack,2024-03-03T19:41:30Z,0,0,TypeScript,True,True,N/A
+championswimmer,championswimmer/expo-sample-try-app,2024-02-29T09:11:36Z,1,1,Ruby,True,True,N/A
+championswimmer,championswimmer/duckdb-driver,2024-02-14T19:51:58Z,1,1,Go,True,True,mit
+championswimmer,championswimmer/championswimmer,2020-07-05T14:50:44Z,8,8,,True,True,N/A
+championswimmer,championswimmer/fiber,2023-12-30T07:33:33Z,1,1,,True,False,mit
+championswimmer,championswimmer/AdventOfCode2023,2023-12-01T19:19:53Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/ETHNYC2023-MonaWallpapers,2023-09-23T15:36:10Z,1,1,Kotlin,True,False,N/A
+championswimmer,championswimmer/ETHNYC2023-MonaScraper,2023-09-23T12:56:18Z,1,1,TypeScript,True,False,N/A
+championswimmer,championswimmer/vuex-module-decorators,2018-04-30T21:33:14Z,1797,1797,TypeScript,True,True,mit
+championswimmer,championswimmer/smolugger_rs,2023-08-04T17:59:26Z,1,1,Rust,True,True,N/A
+championswimmer,championswimmer/yt_dlp_gui,2023-07-11T19:13:53Z,37,37,Dart,True,True,N/A
+championswimmer,championswimmer/yt_dlp_ui,2023-07-03T17:44:24Z,1,1,C++,True,True,N/A
+championswimmer,championswimmer/grabatar.co,2023-05-24T20:50:20Z,1,1,Go,True,True,N/A
+championswimmer,championswimmer/nativescript-awesome-webview,2018-07-27T03:25:00Z,5,5,TypeScript,True,True,apache-2.0
+championswimmer,championswimmer/git-demo-20230420,2023-04-22T02:27:48Z,0,0,JavaScript,True,False,N/A
+championswimmer,championswimmer/Kocktail_KMP_App,2023-03-02T11:20:34Z,5,5,Kotlin,True,True,N/A
+championswimmer,championswimmer/vuex-persist,2017-07-18T13:23:19Z,1669,1669,TypeScript,True,True,mit
+championswimmer,championswimmer/fake-score-netlify-edge,2023-02-26T18:28:07Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/compose-desktop-sample,2023-02-24T19:05:09Z,1,1,Kotlin,True,True,N/A
+championswimmer,championswimmer/nest-typeorm-sample,2020-05-09T21:35:41Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/AdventOfCode2022,2022-12-03T22:15:19Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/vscode-theme-quieter-dark,2022-12-21T07:17:31Z,8,8,,True,True,mit
+championswimmer,championswimmer/Quiet-Dark-Theme-for-VSCode,2022-12-20T23:32:01Z,1,1,,True,True,mit
+championswimmer,championswimmer/cb-sample-heroku-app-02,2020-04-04T14:18:15Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/sample-express-universal-analytics,2020-04-01T11:49:25Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/express-universal-analytics,2020-03-23T23:13:38Z,3,3,TypeScript,True,True,N/A
+championswimmer,championswimmer/NomadicBleisures,2019-04-12T12:47:59Z,1,1,Kotlin,True,True,N/A
+championswimmer,championswimmer/vue-plugin-timers,2018-09-19T22:28:21Z,16,16,TypeScript,True,True,N/A
+championswimmer,championswimmer/dadb,2022-10-07T00:07:46Z,1,1,,True,True,apache-2.0
+championswimmer,championswimmer/blog.championswimmer.in,2015-06-07T22:48:23Z,1,1,CSS,True,True,N/A
+championswimmer,championswimmer/learn-sequelize-at-z,2020-02-07T08:52:14Z,1,1,,True,True,N/A
+championswimmer,championswimmer/git-demo-20220722,2022-07-25T15:59:44Z,1,1,,True,True,N/A
+championswimmer,championswimmer/JavaConcurrencyExamples,2022-06-25T21:10:31Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/conduit_flutter_riverpod,2022-05-08T12:36:15Z,3,3,Dart,True,True,N/A
+championswimmer,championswimmer/low-level-design-problem,2022-04-06T10:52:08Z,58,58,Java,True,True,N/A
+championswimmer,championswimmer/Project-Module-Apr-2022,2022-05-04T18:24:02Z,2,2,Java,True,True,N/A
+championswimmer,championswimmer/java-github-actions-demo-20220427,2022-04-27T17:01:54Z,0,0,Kotlin,True,True,N/A
+championswimmer,championswimmer/git-demo-20220425,2022-04-25T16:05:39Z,0,0,,True,True,N/A
+championswimmer,championswimmer/spring-boot-taskmanager-demo,2022-04-17T16:03:13Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/AdventOfCode2021,2021-12-22T22:28:22Z,1,1,Kotlin,True,True,N/A
+championswimmer,championswimmer/eth-phishing-detect,2022-04-01T12:45:59Z,0,0,,True,False,other
+championswimmer,championswimmer/Project-Module-Feb-2022,2022-03-02T15:44:23Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/awesome-devs,2022-01-18T06:26:03Z,84,84,,False,False,N/A
+championswimmer,championswimmer/weekend-dev-puzzle-amodm-2022-02-05,2022-02-10T20:44:51Z,0,0,Python,False,False,N/A
+championswimmer,championswimmer/shitposting-bot,2022-02-06T17:10:22Z,2,2,TypeScript,True,True,N/A
+championswimmer,championswimmer/wordle_mobile,2022-01-09T22:22:59Z,0,0,Dart,True,True,N/A
+championswimmer,championswimmer/words,2022-01-10T21:26:15Z,1,1,,True,True,N/A
+championswimmer,championswimmer/blog-backup,2022-01-06T20:12:19Z,0,0,,True,True,N/A
+championswimmer,championswimmer/Git-Intro-Dec-2021,2021-12-24T16:21:16Z,0,0,,False,False,N/A
+championswimmer,championswimmer/SPORK,2019-11-16T06:21:44Z,48,48,Kotlin,True,True,N/A
+championswimmer,championswimmer/Conduit_SpringBoot_Postgres,2021-04-28T17:24:25Z,10,10,Java,True,True,N/A
+championswimmer,championswimmer/realworld-vue3-pinia,2021-12-02T21:13:12Z,2,2,Vue,True,True,N/A
+championswimmer,championswimmer/URL_Shortner_Discord_Session,2021-11-21T15:13:20Z,2,2,TypeScript,True,True,N/A
+championswimmer,championswimmer/git-demo-scaler-oct2021,2021-10-18T15:55:04Z,1,1,,True,True,N/A
+championswimmer,championswimmer/edge-webdev-2021,2021-10-20T16:33:25Z,1,1,HTML,True,True,N/A
+championswimmer,championswimmer/worth_it_app,2021-07-16T02:40:50Z,0,0,Dart,True,True,N/A
+championswimmer,championswimmer/PCBuilderKT,2021-08-17T01:23:02Z,2,2,Kotlin,True,True,N/A
+championswimmer,championswimmer/spring-boot-sockets-music,2021-08-13T17:11:33Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/scaleracademy,2021-07-27T16:06:32Z,0,0,,True,True,N/A
+championswimmer,championswimmer/try-git-210721,2021-07-21T17:28:12Z,0,0,,True,True,N/A
+championswimmer,championswimmer/Try-NSVue-2021,2021-05-20T03:35:39Z,0,0,Vue,True,True,N/A
+championswimmer,championswimmer/Flutter-PlatformWidgets-Sample,2021-05-19T04:16:36Z,2,2,Dart,True,True,N/A
+championswimmer,championswimmer/Conduit_Spring_Kotlin_Spring,2021-05-12T03:55:46Z,0,0,Kotlin,True,True,N/A
+championswimmer,championswimmer/my-jetbrains-settings-windows,2021-05-12T02:44:02Z,0,0,,True,True,N/A
+championswimmer,championswimmer/Conduit_SpringBoot_Kotlin,2021-04-28T05:02:03Z,1,1,Kotlin,True,True,N/A
+championswimmer,championswimmer/InstaClone,2021-04-25T12:37:34Z,21,21,Kotlin,True,True,N/A
+championswimmer,championswimmer/imguram,2021-04-19T23:59:32Z,10,10,Kotlin,True,True,N/A
+championswimmer,championswimmer/RealWorld-Spring-Kotlin,2021-04-11T03:46:09Z,3,3,Kotlin,True,True,N/A
+championswimmer,championswimmer/faangshaadi.com,2021-03-16T19:36:11Z,12,12,HTML,True,True,N/A
+championswimmer,championswimmer/AppDesk-NodeJS-Session-01,2021-02-12T08:55:29Z,2,2,JavaScript,True,True,N/A
+championswimmer,championswimmer/LeetCodeByADev.js,2021-01-01T23:48:02Z,5,5,JavaScript,False,False,mit
+championswimmer,championswimmer/realworld,2019-02-24T13:40:16Z,1,1,JavaScript,True,True,mit
+championswimmer,championswimmer/profile-readme-stats,2021-01-29T16:11:48Z,0,0,,True,False,mit
+championswimmer,championswimmer/make-a-pr,2017-09-28T15:04:10Z,0,0,,True,True,N/A
+championswimmer,championswimmer/vueblr-meetup-29-vue3-samples,2020-09-12T08:11:04Z,0,0,Vue,True,True,N/A
+championswimmer,championswimmer/guberx.io,2020-05-18T22:00:11Z,3,3,HTML,True,True,N/A
+championswimmer,championswimmer/CBOnlineApp,2020-05-15T16:50:43Z,2,2,,True,True,gpl-3.0
+championswimmer,championswimmer/BOSS-20,2020-05-15T15:28:59Z,0,0,,True,True,N/A
+championswimmer,championswimmer/wakanda-backend,2020-04-26T07:00:16Z,3,3,TypeScript,True,True,N/A
+championswimmer,championswimmer/client-lib-communicator-pattern,2020-04-13T18:59:57Z,0,0,Kotlin,True,True,N/A
+championswimmer,championswimmer/sample-github-pages-test-1,2020-04-04T13:52:30Z,0,0,HTML,True,True,N/A
+championswimmer,championswimmer/InterComGeoDist,2020-03-16T17:58:55Z,2,2,Kotlin,True,True,N/A
+championswimmer,championswimmer/iOS-Monsters-App,2020-03-07T18:04:02Z,0,0,Swift,True,True,N/A
+championswimmer,championswimmer/kernel_sony_tamsui,2013-03-01T12:27:12Z,1,1,C,True,True,N/A
+championswimmer,championswimmer/jsonapi-converter,2020-01-04T22:29:13Z,0,0,,True,True,apache-2.0
+championswimmer,championswimmer/GithubTrendingNow_Android,2019-12-21T19:32:57Z,34,34,Kotlin,True,True,N/A
+championswimmer,championswimmer/Navi_Imgur_App,2019-10-28T08:55:48Z,38,38,Kotlin,True,True,N/A
+championswimmer,championswimmer/typescript,2019-11-23T07:02:26Z,0,0,,True,False,mit
+championswimmer,championswimmer/BadooTransactionApp,2016-04-19T12:19:08Z,4,4,Java,True,True,N/A
+championswimmer,championswimmer/ngbc-sample-march19-,2019-04-12T06:40:43Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/ngbc-sample-march19-2,2019-04-12T06:58:22Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/cb-deploy-sample,2019-03-31T06:04:03Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/ShoppingCartSequelize,2019-03-17T13:08:08Z,2,2,JavaScript,True,True,N/A
+championswimmer,championswimmer/mac-settings,2019-03-11T18:19:42Z,1,1,,True,True,N/A
+championswimmer,championswimmer/Conduit_NS_Vue_TS,2019-02-10T18:04:29Z,1,1,CSS,True,True,N/A
+championswimmer,championswimmer/Conduit_Flutter,2019-02-11T20:54:15Z,4,4,Dart,True,True,N/A
+championswimmer,championswimmer/final_sih,2019-03-02T21:30:56Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/android,2018-03-25T15:42:41Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/typeorm,2018-06-24T16:09:29Z,1,1,TypeScript,True,True,mit
+championswimmer,championswimmer/Realworld_Android_Anko,2019-02-23T06:01:34Z,1,1,Kotlin,True,True,N/A
+championswimmer,championswimmer/codesandbox-vue-cli-3-typescript,2019-02-20T21:31:51Z,1,1,Vue,True,True,N/A
+championswimmer,championswimmer/InterviewQuestionsCpp,2019-02-18T22:16:15Z,2,2,C++,True,True,N/A
+championswimmer,championswimmer/hasgeek_mobile_nsvue,2018-04-18T13:15:31Z,11,11,CSS,True,True,N/A
+championswimmer,championswimmer/flutter,2018-04-11T13:07:55Z,1,1,Dart,True,True,bsd-3-clause
+championswimmer,championswimmer/ember-decorators,2018-11-07T11:05:34Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/ember-cli-typescript-blueprints,2018-11-06T16:13:32Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/sharetime.in,2018-09-16T05:28:48Z,13,13,TypeScript,True,True,N/A
+championswimmer,championswimmer/AtUniverse,2018-10-16T20:56:42Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/vue-cli-template,2018-08-22T23:15:17Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/events,2018-04-13T11:46:54Z,0,0,CSS,True,True,N/A
+championswimmer,championswimmer/nativescript-vue.org,2018-04-08T13:45:43Z,0,0,CSS,True,True,N/A
+championswimmer,championswimmer/nativescript-toast,2018-10-04T13:02:31Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/ns-vue-ts-sample,2018-10-03T20:25:45Z,3,3,JavaScript,True,True,N/A
+championswimmer,championswimmer/VueJS_Sample_ShoppingCart,2018-10-01T09:09:32Z,0,0,,True,True,N/A
+championswimmer,championswimmer/vue-ts-sample-sandbox,2018-09-30T19:07:17Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/oneauth,2017-03-09T23:03:18Z,2,2,JavaScript,True,True,N/A
+championswimmer,championswimmer/cocalc,2018-09-29T09:59:35Z,0,0,CoffeeScript,True,True,other
+championswimmer,championswimmer/wp-calypso,2018-09-29T09:55:08Z,0,0,JavaScript,True,False,gpl-2.0
+championswimmer,championswimmer/vuejs.org,2017-10-13T08:08:28Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/vue-vuex-typescript-sample,2018-09-09T10:48:44Z,2,2,CSS,True,True,N/A
+championswimmer,championswimmer/json-api,2018-09-08T19:12:20Z,0,0,CSS,True,False,cc0-1.0
+championswimmer,championswimmer/nativescript-vue-typescript-starter,2018-08-14T01:47:37Z,13,13,JavaScript,True,True,N/A
+championswimmer,championswimmer/nativescript-vue,2018-04-12T15:53:16Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/vuepress,2018-08-07T02:57:00Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/mukaam,2018-07-30T04:45:34Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/night-bottom-glitch,2018-07-29T11:58:08Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/nativescript-advanced-webview,2018-07-21T22:12:08Z,0,0,TypeScript,True,True,other
+championswimmer,championswimmer/nativescript-vue-typings,2018-07-19T00:13:38Z,0,0,,True,True,N/A
+championswimmer,championswimmer/Android-SocialButtons,2015-10-31T22:36:49Z,148,148,Java,True,True,other
+championswimmer,championswimmer/android-locales,2015-04-29T20:37:11Z,210,210,,True,True,N/A
+championswimmer,championswimmer/SimpleFingerGestures_Android_Library,2014-04-11T20:08:53Z,317,317,Java,True,True,apache-2.0
+championswimmer,championswimmer/motley,2018-06-28T21:56:10Z,0,0,CSS,True,True,N/A
+championswimmer,championswimmer/DefinitelyTyped,2018-02-27T16:58:54Z,0,0,TypeScript,True,True,other
+championswimmer,championswimmer/UnderstandDecorators,2018-05-04T00:09:19Z,1,1,TypeScript,True,True,N/A
+championswimmer,championswimmer/vue-bangalore,2018-04-12T07:08:05Z,1,1,HTML,True,True,mit
+championswimmer,championswimmer/vue,2018-04-26T21:51:00Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/weex-vue-loader,2018-04-25T17:40:29Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/first-weex-app,2018-04-25T10:36:31Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/incubator-weex-site,2018-04-25T03:09:21Z,0,0,JavaScript,True,False,N/A
+championswimmer,championswimmer/CoderGhostTheme,2018-04-16T09:49:23Z,0,0,CSS,True,True,mit
+championswimmer,championswimmer/GenericRecyclerAdapter,2018-01-22T00:00:51Z,4,4,Java,True,True,N/A
+championswimmer,championswimmer/hasgeek_mobileapp,2018-04-13T07:07:26Z,0,0,Dart,True,True,N/A
+championswimmer,championswimmer/ns-vue-loader,2018-04-11T20:29:46Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/NativeScript_Vue_SampleProject,2018-04-06T07:46:15Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/Trying_Out_Flutter,2018-04-11T14:08:11Z,0,0,Dart,True,True,N/A
+championswimmer,championswimmer/Flashtool,2018-04-08T18:27:29Z,0,0,Java,True,True,gpl-3.0
+championswimmer,championswimmer/TS_Example_Decorators,2018-04-05T13:57:49Z,0,0,TypeScript,True,True,N/A
+championswimmer,championswimmer/Vue_CLIv3_Typescript_Sample,2018-04-03T12:20:42Z,0,0,Vue,True,True,N/A
+championswimmer,championswimmer/ember-typings,2018-02-25T22:44:41Z,0,0,TypeScript,True,False,mit
+championswimmer,championswimmer/jsonapi-server,2017-10-03T12:07:26Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/ember-concurrency,2018-02-27T16:46:51Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/AndroidWear_ComplicationProvider_Sample,2018-03-02T16:27:34Z,2,2,Kotlin,True,True,N/A
+championswimmer,championswimmer/Semantic-UI,2018-02-22T23:52:18Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/ember-promise-utils,2018-02-19T22:04:56Z,0,0,TypeScript,True,True,mit
+championswimmer,championswimmer/ember-cli-typescript,2018-02-19T21:22:09Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/Semantic-UI-Ember,2018-02-16T20:19:01Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/swagger-js,2018-01-28T19:24:34Z,0,0,JavaScript,True,True,other
+championswimmer,championswimmer/dukaan-backend,2018-01-19T19:15:17Z,2,2,TypeScript,True,True,N/A
+championswimmer,championswimmer/mockstorage,2017-07-25T12:14:15Z,0,0,TypeScript,True,True,mit
+championswimmer,championswimmer/convert-radix64,2016-11-25T08:22:08Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/coding-blocks.github.io,2017-11-29T12:03:08Z,2,2,HTML,True,True,N/A
+championswimmer,championswimmer/judge-workers,2017-11-14T15:49:55Z,0,0,Shell,True,True,N/A
+championswimmer,championswimmer/jsonapi-store-sequelize,2017-09-24T21:59:12Z,1,1,JavaScript,True,True,mit
+championswimmer,championswimmer/sequelize-jsonapi,2017-11-01T18:37:08Z,0,0,TypeScript,True,True,N/A
+championswimmer,championswimmer/qBounty-api-server,2017-09-27T12:41:10Z,3,3,JavaScript,True,True,N/A
+championswimmer,championswimmer/awesome-jetbrains,2016-10-02T22:16:47Z,95,95,,True,True,N/A
+championswimmer,championswimmer/qBounty-frontend,2017-10-18T03:02:23Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/android_iot_tensorflow,2017-10-07T14:00:14Z,0,0,,True,True,N/A
+championswimmer,championswimmer/express-ga-middleware,2017-01-05T08:49:16Z,12,12,TypeScript,True,True,N/A
+championswimmer,championswimmer/shortlr,2017-10-13T07:22:15Z,1,1,CSS,True,True,N/A
+championswimmer,championswimmer/SampleAndroidTestCoverage,2017-10-02T11:55:17Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/google_assistant_iot,2017-09-21T20:07:15Z,0,0,Protocol Buffer,True,True,apache-2.0
+championswimmer,championswimmer/ember-learn,2017-09-03T00:13:34Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/vue-typescript-example,2017-07-27T14:44:27Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/intellij-plugins,2017-07-27T18:00:48Z,1,1,Java,True,False,N/A
+championswimmer,championswimmer/awesome-vue,2017-07-22T20:03:08Z,0,0,,True,False,N/A
+championswimmer,championswimmer/parse-heroku-postgres,2017-07-16T19:05:05Z,4,4,JavaScript,True,True,other
+championswimmer,championswimmer/vue-webpack-typescript,2017-07-11T15:24:16Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/AndroidSample_Retrofit_RESTAPI,2017-07-02T08:47:09Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/broccoli-middleware,2017-06-25T21:27:39Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/plugin-hints,2017-06-28T09:26:29Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/new-vue-project,2017-06-26T10:37:37Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/Lifelog-Android-Library,2015-04-21T04:57:43Z,16,16,Java,True,True,other
+championswimmer,championswimmer/try-vuetify,2017-05-08T18:15:46Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/try-vue-element,2017-05-08T17:18:24Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/kernel-tools,2012-05-09T09:22:33Z,80,80,C,True,True,N/A
+championswimmer,championswimmer/open-event-webapp,2016-10-21T17:16:01Z,0,0,JavaScript,True,False,gpl-3.0
+championswimmer,championswimmer/oauth2orize-examples,2017-03-10T01:06:00Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/meld,2017-03-10T00:53:28Z,1,1,Python,True,False,gpl-2.0
+championswimmer,championswimmer/markdown-licenses,2017-07-16T19:34:11Z,0,0,,True,True,unlicense
+championswimmer,championswimmer/InterviewQuesionsJS,2017-02-20T21:33:05Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/AlgorithmPractice,2017-02-24T16:31:15Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/Learn_2_Code_Cpp,2017-01-23T17:43:12Z,1,1,C++,True,True,N/A
+championswimmer,championswimmer/Learn_2_readwrite_files_Cpp,2017-02-08T08:55:35Z,2,2,C++,True,True,N/A
+championswimmer,championswimmer/Learn_2_Sort_Cpp,2017-02-08T07:13:55Z,1,1,C,True,True,N/A
+championswimmer,championswimmer/susi_server,2016-12-21T10:54:21Z,0,0,Java,True,False,lgpl-2.1
+championswimmer,championswimmer/ember-parse-lib,2016-10-19T18:23:14Z,2,2,JavaScript,True,True,mit
+championswimmer,championswimmer/Android-Library-Sample,2016-11-06T04:59:22Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/ReFuel,2015-10-16T17:35:53Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/ember-parse-adapter-two,2016-10-05T23:14:44Z,2,2,JavaScript,True,True,mit
+championswimmer,championswimmer/terminal-plus,2016-09-20T07:42:28Z,0,0,CoffeeScript,True,True,mit
+championswimmer,championswimmer/Phonytale,2016-09-05T17:35:09Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/jsfoo-electron-example,2016-09-14T05:26:32Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/Radar,2016-08-08T07:30:30Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/WebNode2016Fall,2016-08-28T12:30:58Z,1,1,HTML,True,True,N/A
+championswimmer,championswimmer/tododb,2016-07-22T08:31:25Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/Android2016Summer,2016-07-19T06:36:57Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/Android-Tests-Example,2016-01-06T12:09:27Z,5,5,Java,True,True,N/A
+championswimmer,championswimmer/open-event-scraper,2016-04-27T05:46:56Z,1,1,Python,True,False,mit
+championswimmer,championswimmer/SchoolTabApp,2016-02-07T15:58:03Z,6,6,Java,True,True,N/A
+championswimmer,championswimmer/uberprogressview,2016-05-09T18:30:00Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/2016.opentechsummit.net,2016-04-26T18:32:42Z,0,0,CSS,True,False,N/A
+championswimmer,championswimmer/JavaGraphDijkstra,2016-04-15T21:13:07Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/Greplr-Server-Node,2016-04-10T21:56:30Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/Applications,2016-04-08T21:49:52Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/open-event-orga-server,2016-04-01T18:17:11Z,0,0,CSS,True,True,gpl-3.0
+championswimmer,championswimmer/Whatsapp-Desktop,2016-04-01T15:45:09Z,2,2,JavaScript,True,True,N/A
+championswimmer,championswimmer/medium-dark-black,2016-04-01T10:06:05Z,0,0,CSS,True,True,N/A
+championswimmer,championswimmer/open-event-webapp-ember,2016-03-16T22:42:13Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/ember-try,2016-03-15T15:37:55Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/gnome-shell-extension-redshift,2016-03-13T22:21:04Z,0,0,JavaScript,True,True,gpl-3.0
+championswimmer,championswimmer/HelloMeets_Android,2016-02-26T00:49:37Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/GoogleDrive_as_Datastore_Example,2016-03-07T16:34:25Z,6,6,Java,True,True,N/A
+championswimmer,championswimmer/BuildmLearn-Toolkit-Android,2016-03-07T10:01:11Z,0,0,Java,True,True,bsd-3-clause
+championswimmer,championswimmer/AppIntro,2016-02-25T23:39:15Z,0,0,Java,True,True,apache-2.0
+championswimmer,championswimmer/zeroclickinfo-goodies,2016-02-18T03:00:18Z,0,0,Perl,True,False,apache-2.0
+championswimmer,championswimmer/coala,2016-02-18T04:11:39Z,1,1,Python,True,True,agpl-3.0
+championswimmer,championswimmer/testapi,2016-02-17T06:52:00Z,0,0,,True,True,N/A
+championswimmer,championswimmer/platform_manifest,2016-02-16T16:46:48Z,0,0,,True,True,N/A
+championswimmer,championswimmer/files.championswimmer.in,2014-07-15T12:03:25Z,0,0,PHP,True,True,N/A
+championswimmer,championswimmer/visual-qa,2016-04-16T14:10:17Z,0,0,Python,True,True,mit
+championswimmer,championswimmer/Angular101,2016-02-06T09:11:41Z,0,0,,True,True,N/A
+championswimmer,championswimmer/quickstart,2016-01-30T17:29:28Z,0,0,JavaScript,True,True,other
+championswimmer,championswimmer/opengapps,2016-01-25T15:39:55Z,0,0,Shell,True,True,other
+championswimmer,championswimmer/swagger-codegen,2015-12-27T11:08:14Z,0,0,Java,True,True,other
+championswimmer,championswimmer/gradle,2015-12-07T05:26:37Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/MajorProject,2015-11-05T13:38:07Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/android_external_chromium-webview,2015-11-20T17:49:21Z,0,0,Makefile,True,True,N/A
+championswimmer,championswimmer/universal-linux-installer,2015-11-19T17:51:45Z,0,0,Shell,True,True,N/A
+championswimmer,championswimmer/MCU8051-EEE-EndSemVII,2015-11-18T18:56:11Z,0,0,Assembly,True,True,N/A
+championswimmer,championswimmer/electron-builder,2015-11-16T20:32:49Z,0,0,JavaScript,True,True,mit
+championswimmer,championswimmer/ionic2,2015-11-07T17:45:03Z,0,0,TypeScript,True,True,apache-2.0
+championswimmer,championswimmer/awesome-android-ui,2015-11-03T22:10:16Z,0,0,,True,True,N/A
+championswimmer,championswimmer/Campture_Android,2015-10-24T15:39:33Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/facebook-android-sdk,2015-04-04T09:41:45Z,0,0,Java,True,False,other
+championswimmer,championswimmer/Timber,2015-10-12T13:44:23Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/Campture_CMS,2015-10-24T15:50:35Z,0,0,JavaScript,True,True,apache-2.0
+championswimmer,championswimmer/socket.io,2015-10-27T02:35:48Z,0,0,JavaScript,True,False,mit
+championswimmer,championswimmer/slackin,2015-09-30T18:13:44Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/UnityJSONParsing,2015-09-06T09:25:19Z,0,0,C#,True,True,N/A
+championswimmer,championswimmer/GmailConsole,2015-09-06T08:26:45Z,0,0,C#,True,True,N/A
+championswimmer,championswimmer/GCalConsole,2015-09-06T05:58:22Z,0,0,C#,True,True,N/A
+championswimmer,championswimmer/PicOrbit,2015-09-05T11:16:43Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/beaglebone-io,2015-11-05T14:11:14Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/DelhiAutoMeter_Android_App,2013-08-28T22:38:29Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/Bookd_Android_App,2015-04-03T15:02:38Z,2,2,Java,True,True,gpl-2.0
+championswimmer,championswimmer/8051_Basic_Programs,2015-07-27T05:10:49Z,0,0,Assembly,True,True,N/A
+championswimmer,championswimmer/MaterialViewPager,2015-07-12T22:10:02Z,0,0,Java,True,True,apache-2.0
+championswimmer,championswimmer/wildfly-example,2015-07-12T04:07:33Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/android-drawable-converter,2015-06-14T13:31:37Z,1,1,Java,True,False,N/A
+championswimmer,championswimmer/SillyMinimalWatch,2015-06-11T00:01:49Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/carte-noire,2015-06-09T14:09:41Z,0,0,CSS,True,True,other
+championswimmer,championswimmer/trying-angular,2015-05-27T10:00:17Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/minor-1-piBot-videostream,2014-11-10T04:11:59Z,0,0,C++,True,True,gpl-2.0
+championswimmer,championswimmer/Xperia_FOTAKernel_Manager_Android_App,2014-01-21T19:03:54Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/byldafarm,2015-04-29T18:47:08Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/Curo_Android-Broadcom_WICED,2015-04-28T22:12:35Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/india-aggregator-list,2015-04-17T18:52:38Z,1,1,PHP,True,True,N/A
+championswimmer,championswimmer/sony-aosp-manifest,2015-04-08T04:38:08Z,0,0,,True,True,N/A
+championswimmer,championswimmer/android_device_sony_msm8974-common,2015-04-13T15:11:45Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/awesome-android-libraries,2015-04-10T16:27:40Z,0,0,,True,True,N/A
+championswimmer,championswimmer/device-sony-yukon,2015-04-07T13:21:01Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/device-sony-rhine,2015-04-07T13:03:20Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/GadiMeter,2015-04-03T11:36:54Z,3,3,Java,True,True,N/A
+championswimmer,championswimmer/evoluspencil,2015-03-27T04:20:11Z,0,0,JavaScript,True,False,N/A
+championswimmer,championswimmer/node-trello-slack,2015-04-15T13:54:28Z,1,1,JavaScript,True,True,N/A
+championswimmer,championswimmer/android_kernel_sony_seagull,2015-03-03T18:16:22Z,0,0,C,True,True,other
+championswimmer,championswimmer/Arduino,2014-11-19T19:13:59Z,0,0,C,True,True,other
+championswimmer,championswimmer/subsurface,2015-03-07T18:01:46Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/hudson,2015-01-16T15:02:02Z,0,0,,True,True,N/A
+championswimmer,championswimmer/ClassTiming_Android,2015-01-03T13:01:27Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/zalebi,2015-01-04T16:41:10Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/NFC-Bidirectional-over-HCE,2014-08-28T18:36:50Z,9,9,CSS,True,True,N/A
+championswimmer,championswimmer/SimpleCommunicationSystems_MATLAB,2014-10-30T21:52:59Z,0,0,Matlab,True,True,mit
+championswimmer,championswimmer/proprietary_vendor_sony,2014-06-18T19:14:36Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/Learning_8085_Assembly,2014-10-25T15:38:54Z,0,0,Assembly,True,True,unlicense
+championswimmer,championswimmer/Pyrrit,2014-07-27T21:26:14Z,3,3,Python,True,True,N/A
+championswimmer,championswimmer/multiple-monitor-panels,2014-10-22T08:18:06Z,0,0,,True,True,gpl-3.0
+championswimmer,championswimmer/TWRPXperiaInstaller_Android_App,2013-10-25T17:26:03Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/Xperia-Partition-Manager,2014-09-10T19:08:13Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/simavr,2014-09-21T21:51:50Z,1,1,C,True,True,gpl-3.0
+championswimmer,championswimmer/Wiring,2014-09-14T20:42:04Z,0,0,,True,True,other
+championswimmer,championswimmer/OSS_SIG_Advanced,2014-09-10T16:50:43Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/LearningDataStructsCPP,2014-09-01T19:49:48Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/TryingOpenCV,2014-08-30T10:28:53Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/NFC-host-card-emulation-Android,2014-08-20T04:56:15Z,73,73,Java,True,True,N/A
+championswimmer,championswimmer/LearningPython,2014-07-27T14:18:06Z,0,0,Python,True,True,N/A
+championswimmer,championswimmer/OverlayService,2014-07-08T13:07:25Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/philz_touch_cwm6,2014-07-05T07:57:26Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/CameraPreviewSample,2014-07-03T13:40:06Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/CodingPractice,2013-08-24T15:50:57Z,0,0,Shell,True,True,N/A
+championswimmer,championswimmer/Jerrit,2014-05-12T21:29:29Z,0,0,,True,True,N/A
+championswimmer,championswimmer/jquery.json2html,2014-05-10T04:06:07Z,0,0,JavaScript,True,True,N/A
+championswimmer,championswimmer/IEEE_DTU_Troika_Android_App,2013-01-11T09:22:58Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/MyFirstQtApp,2014-03-07T16:39:44Z,0,0,C++,True,True,N/A
+championswimmer,championswimmer/android_kernel_sony_huashan,2014-03-05T17:13:22Z,0,0,C,True,True,other
+championswimmer,championswimmer/IITD_Tryst_Android_App,2014-02-24T16:12:52Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/PagerSlidingTabStrip,2014-02-23T08:19:32Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/XperiaSettings,2014-02-06T20:53:00Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/CollegeFests_Android_App,2014-01-24T15:05:22Z,1,1,Java,True,True,N/A
+championswimmer,championswimmer/device_sony_honami,2013-12-08T09:11:31Z,0,0,Shell,True,True,N/A
+championswimmer,championswimmer/device_sony_rhine-common,2013-12-08T09:13:47Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/device_sony_togari,2013-12-08T09:12:58Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/omni_device_sony_dogo,2013-12-15T23:43:44Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/device_sony_huashan,2013-12-06T07:17:18Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/kernel_sony_msm8960t,2013-12-07T16:59:51Z,0,0,C,True,True,other
+championswimmer,championswimmer/host-card-emulation-sample,2014-05-08T16:30:47Z,0,0,Java,True,True,mit
+championswimmer,championswimmer/android_device_sony_dogo,2013-11-17T17:03:52Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/packages_apps_Mms,2013-11-17T16:40:17Z,0,0,Java,True,True,other
+championswimmer,championswimmer/kernel_sony_msm8x60,2013-10-03T16:14:19Z,0,0,C,True,True,other
+championswimmer,championswimmer/device_sony_fusion3-common,2013-11-07T17:55:05Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/dtustudies.com,2013-10-02T19:34:46Z,0,0,PHP,True,True,gpl-2.0
+championswimmer,championswimmer/android_kernel_sony_msm8960T,2013-09-23T17:10:48Z,0,0,C,True,True,other
+championswimmer,championswimmer/IIITD_esya_Android_App,2013-07-24T19:41:33Z,0,0,Java,True,True,N/A
+championswimmer,championswimmer/Wordpress-HoloTheme,2013-06-25T18:47:01Z,2,2,JavaScript,True,True,N/A
+championswimmer,championswimmer/PebbleStoneCafe-GetSimple-Theme,2013-07-10T09:57:03Z,0,0,PHP,True,True,other
+championswimmer,championswimmer/android_kernel_sony_msm8260,2013-07-06T22:20:04Z,0,0,C,True,True,other
+championswimmer,championswimmer/android_kernel_sony_msm8930,2013-05-28T17:54:26Z,2,2,C,True,True,other
+championswimmer,championswimmer/tmobile_themechoser_template,2013-04-23T19:43:28Z,0,0,Shell,True,True,N/A
+championswimmer,championswimmer/packages_apps_LegacyCamera,2012-10-21T18:20:46Z,1,1,Java,True,True,other
+championswimmer,championswimmer/android_device_semc_es209ra,2012-10-21T06:20:49Z,0,0,C,True,True,N/A
+championswimmer,championswimmer/kernel_sony_fuji,2012-08-26T10:59:00Z,1,1,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/leaderboard-go-dicedb,2024-10-11T08:24:25Z,1,1,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/leaderboard-go-redis,2024-10-01T18:12:13Z,3,3,HTML,True,True,N/A
+arpitbbhayani,arpitbbhayani/dice-tests,2024-09-07T14:41:47Z,1,1,,True,True,N/A
+arpitbbhayani,arpitbbhayani/arpitbbhayani,2020-07-09T15:42:55Z,1,1,,True,True,N/A
+arpitbbhayani,arpitbbhayani/obsidian-hackernews,2021-08-31T09:01:48Z,85,85,TypeScript,True,True,mit
+arpitbbhayani,arpitbbhayani/arpitbbhayani.github.io,2015-07-16T15:50:05Z,2,2,HTML,True,True,N/A
+arpitbbhayani,arpitbbhayani/transpiler,2024-06-12T09:04:22Z,2,2,Go,True,True,apache-2.0
+arpitbbhayani,arpitbbhayani/WikiSe,2014-01-11T07:08:46Z,67,67,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/database-fundamentals,2024-01-12T08:07:09Z,83,83,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/flajolet-martin,2024-02-18T13:04:44Z,1,1,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/concurrency-in-depth,2023-05-08T13:14:40Z,112,112,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/catdb,2024-02-08T09:38:28Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/delta,2024-01-12T06:53:35Z,1,1,,True,True,N/A
+arpitbbhayani,arpitbbhayani/go-playground,2024-01-03T03:12:05Z,3,3,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/system-design-questions,2021-10-19T05:03:23Z,2041,2041,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/slides,2023-11-09T13:58:49Z,1,1,,True,True,mit
+arpitbbhayani,arpitbbhayani/tcpserver,2023-04-21T12:49:33Z,11,11,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/treeline,2023-07-16T17:30:03Z,0,0,,True,True,mit
+arpitbbhayani,arpitbbhayani/treeline-expts,2023-07-16T20:13:23Z,1,1,CMake,True,True,N/A
+arpitbbhayani,arpitbbhayani/cpython-patches,2023-05-15T02:45:56Z,1,1,,True,True,N/A
+arpitbbhayani,arpitbbhayani/knowledge-base,2022-04-04T14:57:02Z,101,101,,True,True,N/A
+arpitbbhayani,arpitbbhayani/GBASIC,2023-05-04T07:01:24Z,0,0,ANTLR,True,True,N/A
+arpitbbhayani,arpitbbhayani/kafka-zero-copy,2023-04-19T17:07:28Z,1,1,,True,True,N/A
+arpitbbhayani,arpitbbhayani/sieve-prime,2023-04-14T12:43:55Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/understanding-virtual-memory,2023-04-01T12:33:24Z,27,27,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/endianness,2023-03-30T08:46:43Z,3,3,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/delete-while-reading,2023-03-26T17:14:21Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/pi-digit-distribution,2023-03-15T04:59:03Z,1,1,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/grpc-in-depth,2023-03-13T16:51:13Z,10,10,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/sepy-fr,2019-09-10T12:47:46Z,0,0,Vue,True,True,N/A
+arpitbbhayani,arpitbbhayani/flasksr,2016-10-13T07:16:22Z,151,151,Python,True,True,mit
+arpitbbhayani,arpitbbhayani/readability,2023-12-01T18:26:52Z,2,2,,True,False,other
+arpitbbhayani,arpitbbhayani/byte-pair-tokenization,2022-12-09T11:37:16Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/consistent-hashing,2020-05-20T15:52:15Z,29,29,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/morris-counter,2020-08-02T12:49:35Z,1,1,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/slowsort,2020-07-25T04:28:23Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/arp,2020-02-14T13:17:23Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/abloom,2022-10-19T05:12:12Z,38,38,Go,True,True,apache-2.0
+arpitbbhayani,arpitbbhayani/postgres-cdc,2022-11-11T04:21:22Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/extension-save-to-pocket,2023-06-14T06:29:09Z,0,0,,True,True,mit
+arpitbbhayani,arpitbbhayani/tfidf,2020-02-23T10:08:44Z,1,1,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/isolation-forest,2020-01-21T16:13:21Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/sepy,2019-09-09T09:20:44Z,1,1,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/markov-chains,2020-05-16T08:58:05Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/decipher-single-byte-xor,2020-06-18T15:17:57Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/fractional-cascading,2020-05-06T03:08:55Z,3,3,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/fsm,2020-04-15T09:35:55Z,21,21,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/ranking-on-ratings,2020-03-18T17:01:56Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/concurrency-with-semaphores,2022-08-08T16:24:17Z,15,15,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/articles,2019-08-15T17:51:34Z,9,9,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/torrent-leecher,2022-07-30T18:58:37Z,1,1,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/reweb,2022-02-14T06:27:51Z,17,17,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/efficient-mod,2022-07-12T09:48:33Z,0,0,Assembly,True,True,N/A
+arpitbbhayani,arpitbbhayani/Pi-Using-Montecarlo,2022-07-03T13:25:01Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/Sattolo-s-Algorithm,2022-07-02T11:32:52Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/Inside-Out-Algorithm,2022-07-02T10:31:38Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/Fisher-Yates-Shuffling-Algorithm,2022-07-02T09:54:22Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/grpc-advcalc,2022-05-11T13:00:24Z,6,6,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/mysql-maxint,2022-03-21T18:23:47Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/sri-check,2022-03-20T16:30:54Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/performant-web,2022-03-09T13:22:56Z,0,0,HTML,True,True,N/A
+arpitbbhayani,arpitbbhayani/revine-docs,2021-10-12T09:33:52Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/revine-showcase,2021-10-10T06:42:53Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/genetic-knapsack,2022-03-05T19:59:25Z,4,4,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/lfsr,2022-02-17T12:35:27Z,3,3,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/lofi-player,2022-02-18T16:15:31Z,0,0,,True,True,mit
+arpitbbhayani,arpitbbhayani/git-netra,2022-02-05T19:46:17Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/UglifyJS,2021-10-11T06:49:07Z,0,0,,True,True,other
+arpitbbhayani,arpitbbhayani/awesome-obsidian,2021-10-04T07:54:49Z,0,0,CSS,True,False,cc0-1.0
+arpitbbhayani,arpitbbhayani/awesome-obsidian-plugins,2021-10-04T07:54:41Z,0,0,,True,True,cc0-1.0
+arpitbbhayani,arpitbbhayani/artisen,2020-06-17T12:48:10Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/arws,2021-09-08T10:19:04Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/obsidian-releases,2021-09-02T10:06:17Z,0,0,,True,False,N/A
+arpitbbhayani,arpitbbhayani/bulma-calendar,2021-06-30T09:08:14Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/stackedit,2021-08-07T18:40:36Z,0,0,,True,False,apache-2.0
+arpitbbhayani,arpitbbhayani/tweet-image-generator,2021-06-24T15:45:38Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/hn-cron-ext,2021-06-08T10:03:13Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/ultimate-sitemap-parser,2021-05-08T16:55:19Z,0,0,Python,True,False,other
+arpitbbhayani,arpitbbhayani/recursion,2021-05-02T08:37:47Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/udemy,2021-04-15T16:55:21Z,2,2,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/game-of-life-engine,2020-02-09T06:40:21Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/snake-engine,2020-02-07T09:54:30Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/arx,2021-02-24T04:43:11Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/open-source-project-template,2022-10-11T10:07:26Z,1,1,,True,True,cc0-1.0
+arpitbbhayani,arpitbbhayani/recviz,2020-12-12T12:10:47Z,6,6,Python,True,True,mit
+arpitbbhayani,arpitbbhayani/israeli-queue,2020-11-21T07:39:40Z,0,0,Makefile,True,True,N/A
+arpitbbhayani,arpitbbhayani/tpl-cpp-console,2020-11-21T07:38:13Z,0,0,Makefile,True,True,N/A
+arpitbbhayani,arpitbbhayani/1d-terrain,2020-11-14T08:32:12Z,1,1,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/tpl-jupyter-notebook,2020-11-14T08:30:59Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/sets-similarity,2020-11-07T05:21:41Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/minhash,2020-10-31T18:01:40Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/data,2020-10-16T07:04:47Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/ts-asap,2020-09-25T17:41:46Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/lfu,2020-08-08T07:29:55Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/inheritance-c,2020-06-01T09:14:18Z,0,0,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/python-caches-integers,2020-05-17T09:56:29Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/engineering-blogs,2020-05-12T14:56:50Z,13,13,Ruby,True,True,N/A
+arpitbbhayani,arpitbbhayani/disk-io-benchmark,2020-04-23T17:57:28Z,0,0,Jupyter Notebook,True,True,N/A
+arpitbbhayani,arpitbbhayani/peg-solitaire-solver,2020-04-17T08:56:20Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/feed-module,2020-04-13T10:16:50Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/feed,2020-04-13T10:16:30Z,0,0,TypeScript,True,False,mit
+arpitbbhayani,arpitbbhayani/sudoku-solver,2020-03-17T17:43:43Z,1,1,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/py-prompts,2020-02-19T08:53:29Z,13,13,Shell,True,True,N/A
+arpitbbhayani,arpitbbhayani/overload,2020-02-20T09:28:32Z,1,1,Python,True,True,mit
+arpitbbhayani,arpitbbhayani/sorting-benchmark,2020-02-17T08:32:13Z,1,1,JavaScript,True,True,gpl-3.0
+arpitbbhayani,arpitbbhayani/game-of-life,2020-02-09T06:38:40Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/snake,2020-02-08T10:42:44Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/python-threading,2020-01-30T18:55:03Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/stegaroo,2020-01-05T15:29:44Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/dqueue,2019-11-19T13:55:13Z,2,2,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/cerr,2019-11-20T17:06:30Z,0,0,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/tailer,2019-11-12T17:54:06Z,0,0,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/spoj,2013-12-06T05:02:31Z,3,3,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/pottersys,2019-10-16T17:07:45Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/hackerrank,2016-07-11T09:51:04Z,2,2,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/dotfiles,2019-08-01T04:02:39Z,0,0,Shell,True,True,N/A
+arpitbbhayani,arpitbbhayani/py-hangman,2019-07-17T15:34:41Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/jwt-auth,2019-07-11T15:35:12Z,1,1,Go,True,True,mit
+arpitbbhayani,arpitbbhayani/video.js,2019-01-25T09:53:17Z,0,0,JavaScript,True,True,other
+arpitbbhayani,arpitbbhayani/awesome-flask,2016-11-07T12:01:33Z,0,0,,True,False,N/A
+arpitbbhayani,arpitbbhayani/interviewbit,2018-10-09T13:36:37Z,0,0,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/npone-impact,2018-09-14T11:47:47Z,0,0,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/arlt,2018-09-13T09:27:30Z,3,3,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/sonic-candle,2018-09-16T11:58:31Z,0,0,Java,True,True,apache-2.0
+arpitbbhayani,arpitbbhayani/semver,2018-03-15T16:31:25Z,1,1,Go,True,False,mit
+arpitbbhayani,arpitbbhayani/badger-cli,2018-07-15T12:38:19Z,3,3,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/go,2018-06-18T09:17:35Z,0,0,Go,True,True,bsd-3-clause
+arpitbbhayani,arpitbbhayani/ls,2013-10-01T15:10:17Z,9,9,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/todo-dooby-doo,2018-01-11T04:29:45Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/linkie,2017-11-04T10:55:03Z,10,10,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/boilr-base-express-app,2017-12-15T11:56:48Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/arcli,2017-11-06T02:45:26Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/dp,2017-09-05T05:53:45Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/huddl,2017-08-16T06:05:34Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/go-sleep-sort,2017-07-15T10:40:26Z,2,2,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/arxiv-download,2017-07-04T05:20:01Z,2,2,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/mongo-pagination-benchmark,2017-06-06T19:02:08Z,11,11,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/prism,2017-06-27T07:36:42Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/CodeFlask.js,2017-06-27T07:36:16Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/tripod,2017-04-25T14:25:50Z,10,10,Go,True,True,N/A
+arpitbbhayani,arpitbbhayani/scripts-and-snippets,2016-03-20T14:39:35Z,1,1,Shell,True,True,N/A
+arpitbbhayani,arpitbbhayani/python-async-examples,2016-11-07T10:43:18Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/jsoncache,2017-02-17T18:50:50Z,1,1,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/pipui,2016-11-16T09:21:52Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/speedyio,2017-01-09T15:53:28Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/mito,2016-12-09T15:35:35Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/leetcode,2016-08-17T04:18:20Z,0,0,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/codechef,2016-01-04T05:20:37Z,0,0,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/electron-video-player,2019-02-03T17:58:19Z,0,0,JavaScript,True,False,other
+arpitbbhayani,arpitbbhayani/github-cli,2016-11-15T08:28:54Z,1,1,Go,True,True,mit
+arpitbbhayani,arpitbbhayani/umysql3,2016-09-19T07:06:23Z,4,4,C,True,True,other
+arpitbbhayani,arpitbbhayani/riot-express-webpack,2016-06-28T15:22:01Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/scrappers,2015-11-15T15:13:06Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/js-showcase,2016-03-23T09:29:09Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/react-redux-todo,2016-03-20T14:12:57Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/jsguild,2016-03-18T16:52:18Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/react-boilerplate,2016-03-18T10:21:58Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/carte,2016-02-25T14:18:00Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/quora-widget,2015-12-24T08:58:07Z,8,8,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/flask-template,2016-02-10T15:45:42Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/editor-demo,2016-02-04T16:52:57Z,1,1,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/lorvet-conf,2016-01-10T16:33:48Z,0,0,Puppet,True,True,N/A
+arpitbbhayani,arpitbbhayani/lorvet,2016-01-09T14:14:31Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/randomcliff,2015-11-27T15:16:59Z,0,0,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/quora-widget-api,2015-12-28T15:02:58Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/jsdelivr,2015-12-25T08:54:10Z,0,0,,True,True,mit
+arpitbbhayani,arpitbbhayani/penny,2015-10-11T08:27:12Z,2,2,JavaScript,True,True,mit
+arpitbbhayani,arpitbbhayani/evil,2015-11-26T19:09:59Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/knn,2015-01-09T06:12:09Z,0,0,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/trex-iot,2014-03-24T06:59:53Z,0,0,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/scrapy_python,2014-03-19T10:42:22Z,1,1,Python,True,True,N/A
+arpitbbhayani,arpitbbhayani/articulate,2014-04-18T15:12:28Z,1,1,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/Tweetie,2014-08-14T13:15:39Z,0,0,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/squarato,2014-08-08T13:07:45Z,0,0,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/slash_zero,2014-03-31T10:47:47Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/chrome-extension,2014-03-18T09:15:42Z,0,0,JavaScript,True,True,N/A
+arpitbbhayani,arpitbbhayani/DBSystem,2014-01-27T15:01:22Z,1,1,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/ShareDo,2014-01-27T15:04:16Z,0,0,Python,True,True,other
+arpitbbhayani,arpitbbhayani/marshall_unmarshall,2014-01-18T18:59:42Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/shell_scripts,2014-01-11T06:57:59Z,0,0,,True,True,N/A
+arpitbbhayani,arpitbbhayani/jms,2014-01-11T06:51:57Z,0,0,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/HttpWebserver,2014-01-06T20:28:21Z,0,0,Java,True,True,N/A
+arpitbbhayani,arpitbbhayani/experiments_with_html_css,2013-12-17T06:39:55Z,0,0,CSS,True,True,N/A
+arpitbbhayani,arpitbbhayani/file_system,2013-10-28T10:40:22Z,1,1,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/aps_src,2013-10-01T16:09:21Z,0,0,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/pthread_semaphore,2013-10-21T10:41:04Z,0,0,C++,True,True,N/A
+arpitbbhayani,arpitbbhayani/shell,2013-10-01T15:54:46Z,4,4,C,True,True,N/A
+arpitbbhayani,arpitbbhayani/file_reversal,2013-10-01T15:03:00Z,0,0,,True,True,N/A
+manjunath5496,manjunath5496/The-Art-of-Computer-Programming-Books,2019-10-25T04:56:51Z,1612,1612,,True,True,N/A
+manjunath5496,manjunath5496/Computer-Science-Reference-Books,2019-07-01T08:35:10Z,370,370,,True,True,N/A
+manjunath5496,manjunath5496/manjunath5496,2021-08-20T06:42:27Z,20,20,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Networks-Books,2019-12-03T11:05:40Z,64,64,,True,True,N/A
+manjunath5496,manjunath5496/CPlusPlus-Exercises-for-Beginners,2019-07-31T12:19:18Z,21,21,,True,True,N/A
+manjunath5496,manjunath5496/106-Java-Programs,2021-10-31T18:56:01Z,15,15,,True,True,N/A
+manjunath5496,manjunath5496/Beginner-Python-Exercises,2020-11-04T08:26:36Z,32,32,,True,True,N/A
+manjunath5496,manjunath5496/Beginner-C-Exercises,2019-07-29T17:13:53Z,22,22,,True,True,N/A
+manjunath5496,manjunath5496/manjunath5496.github.io,2020-01-25T11:41:55Z,13,13,HTML,True,True,N/A
+manjunath5496,manjunath5496/Feynman-Lectures,2022-04-02T14:30:40Z,33,33,,True,True,N/A
+manjunath5496,manjunath5496/Computer-Science-Study-Material,2022-02-26T04:37:05Z,33,33,,True,True,N/A
+manjunath5496,manjunath5496/Blog,2019-08-09T03:06:28Z,17,17,,True,True,N/A
+manjunath5496,manjunath5496/6-Datascience-Papers,2022-01-08T10:49:06Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/999-Computer-Books,2021-12-23T02:02:29Z,67,67,,True,True,N/A
+manjunath5496,manjunath5496/Important-Github-ML-Repositories,2021-11-28T09:25:24Z,45,45,,True,True,N/A
+manjunath5496,manjunath5496/Surgical-Video-Analysis-Papers,2021-11-27T02:28:35Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Survial-Analysis-DL-Papers,2021-11-03T11:16:50Z,11,11,,True,True,N/A
+manjunath5496,manjunath5496/Versatile-Entity-Recognition-and-Disambiguation-Toolkit-Papers,2021-11-03T11:08:54Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Important-Linux-Commands-You-Should-Know,2019-12-20T04:41:59Z,19,19,,True,True,N/A
+manjunath5496,manjunath5496/Prompt-Tuning-Papers,2021-10-28T18:14:22Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Preference-Learning-Papers,2021-10-28T18:52:04Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Document-Layout-Analysis-Papers,2021-10-28T18:06:17Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/103-C-Plus-Plus-Programs,2021-10-28T17:21:07Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/What-is-Linux-and-why-is-it-so-popular,2019-06-08T11:04:45Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/116-C-Programs,2021-10-22T12:41:19Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/3D-reconstruction-Paper-list,2020-02-06T01:57:23Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/CAT-Study-Material,2019-02-03T16:10:03Z,99,99,,True,True,N/A
+manjunath5496,manjunath5496/Information-Diffusion-Prediction-Papers,2021-10-02T17:01:34Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/DL-Recommendation-Papers,2021-10-02T16:39:28Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Information-Retrieval-Papers,2021-10-02T17:37:38Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/New-View-Synthesis-Papers,2021-09-05T12:32:52Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Image-Quality-Papers,2021-09-05T14:12:41Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Novel-StyleGAN-Inversion-Papers,2021-09-05T11:48:14Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Novel-View-Synthesis-Papers,2021-09-05T14:39:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Top-10-ML-Papers,2021-09-05T14:41:41Z,13,13,,True,True,N/A
+manjunath5496,manjunath5496/Linux-Kernel-Exploitation-Papers,2021-08-17T02:49:06Z,14,14,,True,True,N/A
+manjunath5496,manjunath5496/StarCraft-AI-Papers,2021-08-17T02:59:01Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Machine-Learning-Privacy-Papers,2021-08-09T06:51:11Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Privacy-Papers,2021-08-09T06:29:51Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Top-12-Adversarial-Learning-Papers,2021-08-08T20:17:24Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Cool-Vision-Papers,2021-07-31T07:14:13Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Reconfigurable-Intelligent-Surface-Papers,2021-07-31T06:46:11Z,11,11,,True,True,N/A
+manjunath5496,manjunath5496/Visual-Place-Recognition-Papers,2021-07-29T07:18:45Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Fluid-Mechanics-ML-Papers,2021-07-29T07:53:04Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Neural-ODE-Papers,2021-07-29T08:26:58Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Database-Books,2019-07-10T03:22:22Z,184,184,,True,True,N/A
+manjunath5496,manjunath5496/Cognitive-ML-Papers,2021-07-18T19:25:33Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Combinatorial-Optimization-ML-Papers,2021-07-18T19:46:46Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/DL-Related-Survey-Papers,2021-07-18T18:43:17Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Vector-Search-Engine-Papers,2021-07-18T18:34:01Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Top-8-Neural-Network-Compression-Techniques-Papers,2021-07-18T19:07:25Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/10-Best-Ecommerce-Research-Papers,2021-07-11T12:16:32Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Top-10-Papers-on-Neural-Machine-Translation,2021-07-11T11:47:27Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/566-CS-Articles,2020-08-16T05:13:15Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/999-CS-Articles,2020-08-16T02:32:49Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Outline-of-computer-engineering,2021-07-11T02:34:43Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Outline-of-computer-programming,2021-07-11T02:31:00Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Cell-Detection-Segmentation-Papers,2021-07-01T13:50:09Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Network-Representation-Learning-Papers,2021-07-02T06:46:29Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Log-Analysis-Papers,2021-07-02T00:39:02Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/ChIP-Seq-Analysis-Papers,2021-07-02T12:18:01Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers,2021-07-02T01:47:56Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/AI-conference-Papers,2021-07-02T15:41:52Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/RNA-Seq-Analysis-Papers,2021-07-02T10:02:55Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Single-Cell-Papers,2021-07-02T05:58:22Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Knowledge-Discovery-in-Databases-Papers,2021-07-02T16:01:50Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Cell-Free-DNA-Papers,2021-07-02T07:39:07Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Log-based-Anomaly-Detection-Papers,2021-07-02T01:23:13Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Deconvolution-Papers,2021-07-02T01:34:06Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Cytodata-Papers,2021-07-02T13:22:51Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Single-Cell-State-Papers,2021-07-02T01:39:29Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Text-2-Speech-Synthesis-Papers,2021-07-02T13:47:22Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Top-10-Promising-Synthesis-Papers,2021-07-02T14:04:04Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-HIV,2020-07-16T17:00:46Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-gravitational-physics-and-relativity,2020-04-01T05:23:44Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-cancer-treatment-development,2020-05-16T16:19:17Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-automobiles,2020-05-17T11:21:05Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-electromagnetism-and-classical-optics,2020-05-18T03:09:19Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-quantum-computing,2020-05-18T04:01:40Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-quantum-mechanics,2020-07-18T10:17:12Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-Native-American-art-history,2020-07-17T18:13:58Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-computer-viruses-and-worms,2020-05-28T16:44:11Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Visual-Question-Answering-Papers,2021-06-21T07:40:51Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Event-based-Vision-Papers,2021-06-21T09:21:46Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Remote-Sensing-Data-Fusion-Papers,2021-06-21T11:04:48Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Quantum-Annealing-Papers,2021-06-21T08:17:59Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Crop-Field-Phenotyping-DL-Papers,2021-06-21T07:59:45Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Agriculture-DL-Papers,2021-06-21T08:51:37Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/PHP-CRM,2020-07-31T11:50:43Z,4,4,PHP,True,True,N/A
+manjunath5496,manjunath5496/Active-Inference-Papers,2021-06-19T11:05:52Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Optical-Flow-Algorithm-Papers,2021-06-19T11:01:53Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Spoken-Language-Understanding-Papers,2021-06-13T07:25:03Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Shared-Mobility-Papers,2021-06-14T17:29:43Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Aspect-Based-Sentiment-Analysis-Papers,2021-06-13T09:18:21Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Match-Papers,2021-06-13T10:40:29Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Change-Detection-Papers,2021-06-15T06:15:59Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Contrastive-Learning-Papers,2021-06-13T11:42:21Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/RGB-T-Fusion-Tracking-Papers,2021-06-15T05:48:37Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Face-Anti-Spoofing-Papers,2021-06-15T03:13:51Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Heterogeneous-System-Papers,2021-06-13T06:39:00Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Transfer-Learning-Papers,2021-06-13T06:35:13Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Very-Deep-Learning-Papers,2021-06-15T04:27:39Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/HDR-Image-Synthesis-Papers,2021-06-14T10:49:50Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Gait-Recognition,2021-06-13T07:11:15Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/5-ML-Research-Papers-on-Deep-Fake-Detection,2021-06-15T03:22:26Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-Indian-history,2020-07-18T02:24:42Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Jewish-Virtual-Library,2019-07-11T17:19:06Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/3D-Shape-Analysis-Papers,2021-06-09T08:20:10Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Visual-Grounding-Papers,2021-06-09T01:38:44Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Holistic-3D-Reconstruction-Papers,2021-06-09T06:21:14Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Fact-Checking-Papers,2021-06-09T05:26:05Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/ML-Reliability-Papers,2021-06-09T05:04:47Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Generative-Modeling-Papers,2021-06-09T06:09:47Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Parking-Slot-Detection-Papers,2021-06-09T05:39:45Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Inverse-Rendering-Papers,2021-06-09T07:55:35Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Wireframe-Papers,2021-06-09T11:19:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Environmental-Sound-Classification-Papers,2021-06-05T07:24:05Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Best-AI-Papers,2021-06-04T10:25:47Z,40,40,,True,True,N/A
+manjunath5496,manjunath5496/Graphics-Papers,2021-06-04T09:17:03Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Internal-Learning-Papers,2021-06-04T06:28:34Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Google-Earth-Engine-Papers,2021-06-04T10:46:39Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Shadowsocks-Papers,2021-05-31T15:26:24Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Top-8-Papers-on-eCommerce-Search-Algorithms,2021-05-31T13:40:13Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Source-Code-Analysis-Papers,2021-05-31T11:11:39Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Awesome-Search-Papers,2021-05-31T11:18:34Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Epigenetic-Clocks-Predicting-Age-Papers,2021-05-31T10:55:26Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Apache-Flink-Papers,2021-05-31T10:41:28Z,18,18,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-antisemitism,2020-07-17T02:42:41Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Person-Reidentification-Papers,2021-05-27T06:21:53Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/FakeNews-Papers,2021-05-27T02:52:20Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Stance-Learning-Papers,2021-05-27T03:04:50Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Sketch-Based-DL-Papers,2021-05-27T03:35:52Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Delineation-Papers,2021-05-27T06:08:23Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Object-Proposals-Paper-List,2021-05-27T06:39:03Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Temporal-Action-Detection-Papers,2021-05-27T06:56:14Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Fact-Verification-Papers,2021-05-27T03:02:42Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Awesome-Papers-on-Modules,2021-05-27T07:12:24Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Normalizing-Flow-Papers,2021-05-27T07:27:35Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Weakly-Supervised-Temporal-Action-Detection-Papers,2021-05-27T07:40:54Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/TrojAI-Papers,2021-05-22T08:25:35Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Music-DL-Papers,2021-05-22T10:43:58Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/JAX-Papers,2021-05-21T14:58:24Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Backdoor-Papers,2021-05-22T07:32:15Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Network-Functions-Virtualization-Papers,2021-05-22T11:17:58Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Radiance-Fields-Papers,2021-05-21T18:35:57Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Computational-Morphology-Papers,2021-05-21T14:47:02Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Sim-2-Real-Papers,2021-05-21T16:57:47Z,10,10,,True,True,N/A
+manjunath5496,manjunath5496/Implicit-Neural-Representation-Papers,2021-05-21T17:57:31Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Cross-lingual-Information-Retrieval-Papers,2021-05-22T11:24:33Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Capsule-Networks-Papers,2021-05-22T11:49:47Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Probabilistic-Planning-Papers,2021-05-17T07:44:34Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Scene-Understanding-Papers,2021-05-17T07:32:55Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Skeleton-based-Action-Recognition-Papers,2021-05-17T08:07:51Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Low-Light-Image-Enhancement-Papers,2021-05-17T08:49:06Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/VTON-Papers,2021-05-14T05:23:35Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/GAN-Inversion-Papers,2021-05-12T14:45:20Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Mobile-Application-Energy-Papers,2021-05-12T15:51:55Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Nonintrusive-Load-Monitoring-Papers,2021-05-12T15:23:43Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Software-Engineering-Bot-Papers,2021-05-12T14:15:38Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Embedding-Model-Papers,2021-05-12T15:32:20Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/11-Important-Papers-Every-Programmer-Should-Know,2021-05-08T09:50:58Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Local-and-Global-Descriptor-Papers,2021-05-07T02:21:11Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Label-Noise-Papers,2021-05-07T06:45:13Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Tiny-Object-Detection-Papers,2021-05-07T08:58:07Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Gaze-Estimation-Papers,2021-05-07T07:18:48Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Language-Guided-Image-Editing-Papers,2021-05-07T07:04:49Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Audio-Adversarial-Examples-Papers,2021-05-07T07:02:00Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Multiple-Object-Tracking-Papers,2021-05-07T09:07:27Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Tiny-ML-Papers,2021-05-07T09:22:25Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Reproducible-Research-Papers,2021-05-07T10:10:43Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Einstein-Five-Papers-That-Changed-the-Face-of-Physics,2021-05-06T16:50:39Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Research-Papers,2021-04-27T09:40:34Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Vehicle-Reidentification-Papers,2021-04-27T09:03:26Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Equivariant-Network-Papers,2021-04-27T10:41:22Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Topology-Papers,2021-04-27T10:38:30Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Model-Quantization-Papers,2021-04-27T10:11:16Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Knowledge-Graph-Reasoning-Papers,2021-04-27T08:54:55Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Random-Papers,2021-04-27T09:20:01Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Stream-Processing-Papers,2021-04-27T11:54:53Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Resilience-Engineering-Papers,2021-04-27T12:02:19Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Mapping-Algorithm-Papers,2021-04-27T10:25:33Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Cross-modality-Person-Reidentification-Papers,2021-04-27T09:14:57Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Computational-Fluid-Dynamics-Papers,2021-04-27T09:55:38Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Chaos-Engineering-Papers,2021-04-22T19:30:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Scene-Text-Localization-and-Recognition-Papers,2021-04-22T19:11:37Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Biological-and-Artificial-Neural-Networks-Papers,2021-04-19T15:16:40Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Learning-EE-Design-Papers,2021-04-19T12:39:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Sign-Language-Recognition-Papers,2021-04-19T15:56:24Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Vision-Language-Navigation-Papers,2021-04-19T16:10:51Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Natural-Language-Generation-Papers,2021-04-19T12:09:37Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Explainable-AI-Papers,2021-04-17T09:00:16Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Rendering-Papers,2021-03-25T09:25:44Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/The-100-Most-Influential-Scientists-of-All-Time,2020-03-29T10:40:25Z,10,10,,True,True,N/A
+manjunath5496,manjunath5496/490-Plus-ML-Papers,2021-04-13T21:33:47Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Building-Detection-Papers,2021-04-10T10:02:54Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Geospatial-ML-Papers,2021-04-10T10:14:52Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/30-Bash-Scripts-for-Beginners,2021-04-08T08:22:54Z,12,12,,True,True,N/A
+manjunath5496,manjunath5496/Automated-Exploratory-Data-Analysis-Papers,2021-04-08T02:26:07Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Python-Automation-Scripts,2021-04-07T18:07:02Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/30-Python-Scripts-for-Beginners,2021-04-07T02:54:29Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Programming-Cheat-Sheets,2021-03-31T08:46:48Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Basic-Docker-Commands,2021-04-05T02:33:54Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Basic-MongoDB-Commands,2021-04-05T02:05:03Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Cyber-Security-Books,2020-01-05T03:56:40Z,48,48,,True,True,N/A
+manjunath5496,manjunath5496/Tutorials,2019-08-09T03:31:58Z,12,12,,True,True,N/A
+manjunath5496,manjunath5496/Technical-papers-for-Engineering-students,2021-03-30T10:56:15Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Performance-Capture-Papers,2021-03-30T10:37:03Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Top-5-Low-Thermal-Conductivity-Research-Papers,2021-03-27T14:24:42Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Top-8-most-highly-cited-retracted-papers,2021-03-27T13:29:11Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/400-Plus-Software-Security-Papers,2021-03-25T08:14:25Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers,2021-03-25T06:52:05Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Top-10-Datamining-Papers,2021-03-26T10:54:17Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/High-Energy-Physics-ML-Papers,2021-03-25T08:30:31Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Text-Mining-Papers,2021-03-25T07:33:29Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Multimodal-Emotion-Recognition-Papers,2021-03-25T08:56:10Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Emotion-Cause-Analysis-Papers,2021-03-25T09:01:40Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Programming-Papers,2021-03-25T09:16:38Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Video-Frame-Interpolation-Papers,2021-03-25T09:13:22Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Imbalanced-Time-series-Classification-DL-Papers,2021-03-25T07:09:08Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Data-Analytics-Papers,2021-03-25T07:46:01Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Active-Learning-Papers,2021-03-25T07:18:06Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Animal-ML-Papers,2021-03-23T02:25:02Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/3D-Human-Body-Papers,2021-03-23T06:10:15Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Law-NLP-Papers,2021-03-22T03:55:00Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Face-Authentication-Security-Papers,2021-03-21T15:06:47Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Biometric-Gait-Recognition-Papers,2021-03-21T15:01:18Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Hierarchical-Reinforcement-Learning-Papers,2021-03-19T10:00:00Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Design-AI-Papers,2021-03-19T10:44:54Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Logic-Papers,2021-03-19T09:52:24Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/100-Days-of-Machine-Learning-Tutorial,2021-01-17T02:11:09Z,22,22,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-CS-Books,2021-01-17T02:10:07Z,11,11,,True,True,N/A
+manjunath5496,manjunath5496/Books,2019-08-09T02:37:24Z,56,56,,True,True,N/A
+manjunath5496,manjunath5496/1Week-of-Physics-Learning-Tutorial,2021-02-18T06:03:00Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Books,2021-01-11T01:37:19Z,12,12,,True,True,N/A
+manjunath5496,manjunath5496/559-Quantum-Physics-Articles,2021-03-09T15:38:43Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/999-Quantum-Physics-Articles,2021-03-09T08:38:42Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Animation-AI-Papers,2021-03-06T17:03:52Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/1Day-of-Python-Learning-Tutorial,2021-02-04T03:18:07Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Physics-Books,2021-02-01T16:54:06Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Physics-ML-Papers,2020-01-13T18:57:32Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Carl-Sagan-Papers,2021-02-27T16:56:13Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Erwin-Schrodinger-Papers,2021-02-27T16:45:14Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Arthur-Stanley-Eddington-Papers,2021-02-27T15:33:51Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Max-Born-Publications,2021-02-27T14:42:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Stephen-Hawking-Papers,2021-02-27T12:30:54Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Werner-Heisenberg-Papers,2021-02-27T11:21:48Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Paul-Dirac-Papers,2021-02-27T10:05:09Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/James-Clerk-Maxwell-Books,2019-08-16T06:04:09Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Ernest-Rutherford-Papers,2021-02-27T08:05:25Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Joseph-John-Thomson-Publications,2021-02-27T06:41:06Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Louis-de-Broglie-Papers,2021-02-27T06:22:51Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Linus-Pauling-Papers,2021-02-26T16:02:57Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Michael-Faraday-Papers,2021-02-26T15:25:56Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Enrico-Fermi-Papers,2021-02-26T14:16:50Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Richard-Feynman-Papers,2021-02-26T13:23:08Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Galileo-Galilei-Publications,2021-02-26T13:11:08Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Max-Planck-Papers,2021-02-26T10:05:12Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Niels-Bohr-Publications,2021-02-26T06:29:29Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Papers-of-Sir-Isaac-Newton,2021-02-26T05:38:19Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/The-Collected-Papers-of-Albert-Einstein,2021-02-26T04:33:12Z,12,12,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Law-Books,2021-02-25T02:25:56Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Philosophy-Books,2021-02-24T18:15:05Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Economics-Books,2021-02-18T15:35:54Z,10,10,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Technology-Books,2021-02-16T06:36:39Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Agriculture-Books,2021-02-15T10:33:20Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/10-AI-Papers-That-Made-an-Impact,2021-02-15T07:47:00Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Exam-Study-Material,2019-07-11T11:37:17Z,47,47,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Medicine-Books,2021-02-07T03:33:21Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Biology-Books,2021-02-02T09:19:38Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Microbiology-Books,2021-02-01T03:20:18Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Chemistry-Books,2021-02-02T04:03:20Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Astronomy-Books,2021-02-01T14:59:50Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Botany-Books,2021-02-01T07:33:09Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Open-Access-Religious-Texts,2021-01-30T08:58:56Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/AI-Projects,2021-01-17T02:11:36Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/DevOps-Books,2019-06-10T00:48:08Z,215,215,,True,True,N/A
+manjunath5496,manjunath5496/Scholarly-Works,2021-01-22T08:24:39Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Online-Tutorials,2019-07-26T09:57:22Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Open-Source-CS-Books,2020-12-03T13:06:23Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Open-Source-Economics-Books,2020-12-04T01:24:22Z,10,10,,True,True,N/A
+manjunath5496,manjunath5496/Open-Source-Books,2020-12-17T10:49:39Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Study-Material,2019-11-06T04:29:01Z,25,25,,True,True,N/A
+manjunath5496,manjunath5496/Multiple-Instance-Learning-Papers,2021-01-15T07:16:48Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Emotion-Cause-Detection-Papers,2021-01-14T13:15:53Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Emotion-Recognition-Papers,2021-01-14T13:03:53Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Affective-Computing-Papers,2021-01-14T12:37:19Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Biomedical-Information-Extraction-Papers,2021-01-14T06:57:32Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Image-2-Image-Translation-Papers,2021-01-14T04:02:10Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/List-of-effects,2021-01-12T07:30:32Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Code-Review-Papers,2021-01-13T09:48:18Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/3D-Point-Cloud-Denoising-Papers,2021-01-13T08:25:50Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Small-Object-Detection-Papers,2021-01-13T07:56:26Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Gradient-Boosting-Papers,2021-01-10T05:38:04Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Software-Defined-Networking-Papers,2021-01-10T04:50:26Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Rabindranath-Tagore-Books,2021-01-10T03:51:21Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/The-Best-Economics-Books,2021-01-09T11:55:26Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/ChatBot-JS,2020-04-17T13:48:41Z,6,6,HTML,True,True,N/A
+manjunath5496,manjunath5496/Artificial-Intelligence,2020-02-09T05:58:23Z,19,19,,True,True,N/A
+manjunath5496,manjunath5496/Data-Science-Study-Materials,2019-09-15T09:02:22Z,53,53,,True,True,N/A
+manjunath5496,manjunath5496/The-Best-Science-Books,2021-01-08T18:03:33Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Dynamic-Convolution-Papers,2021-01-08T06:12:37Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Computed-Tomography-Papers,2021-01-08T06:36:51Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Text-Summarization-Papers,2021-01-05T16:15:35Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Text-Generation-Papers,2021-01-05T15:51:56Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Awesome-Math-Books,2021-01-04T02:57:26Z,70,70,,True,True,N/A
+manjunath5496,manjunath5496/Entity-Alignment-Papers,2021-01-01T13:17:38Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/OpticalFlow-Papers,2020-12-31T14:05:14Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Event-Extraction-Papers,2020-12-30T03:13:53Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/GAN-Medical-Imaging-Papers,2020-12-30T04:09:05Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Influence-Maximization-Learning-Papers,2020-12-30T05:31:59Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Image-and-Video-Deblurring-Papers,2020-12-30T06:04:24Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Correlation-Filter-Tracker-Papers,2020-12-30T05:23:07Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/FastMRI-Papers,2020-12-30T04:35:16Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/3D-segmentation-Neurites-Papers,2020-12-30T06:32:24Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Video-Analysis-Papers,2020-12-30T05:16:34Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Misinformation-Papers,2020-12-30T04:55:24Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Image-Distortion-Correction-Papers,2020-12-30T06:24:29Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Smart-Contract-Papers,2020-12-30T05:27:02Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers,2020-12-30T05:51:12Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Object-Detection-Imbalance-Papers,2020-12-29T17:52:11Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/MLOps-Papers,2020-12-29T16:53:14Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Mobility-ML-Papers,2020-12-29T13:05:48Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Collision-Detection-Papers,2020-12-29T11:27:34Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Multibody-Dynamics-Simulation-Papers,2020-12-29T10:52:10Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Computational-Advertising-Papers,2020-12-29T03:14:38Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Advertising-papers,2020-12-29T02:37:43Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Multi-Task-ML-Paper-List,2020-12-27T08:52:39Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Long-Tailed-Recognition-Papers,2020-12-27T09:18:17Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Large-Scale-Control-DL-Papers,2020-12-27T09:27:21Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Matching-Task-Paper-Reading-List,2020-12-27T03:32:50Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Multimodal-ML-Papers,2020-12-25T02:35:06Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Code-Switching-Papers,2020-12-25T04:41:29Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Vision-and-Language-PreTrained-Model-Papers,2020-12-25T02:04:59Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Language-Grounding-to-Vision-and-Control-Papers,2020-12-25T05:29:46Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Traffic-Prediction-Papers,2020-12-25T05:01:47Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Speech-Bandwidth-Extension-Papers,2020-12-25T04:55:31Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Bug-Detection-Papers,2020-12-25T05:38:36Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Automotive-Engineering-Papers,2020-12-23T09:34:35Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Trade-ML-Papers,2020-12-23T09:22:55Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Earth-AI-Papers,2020-12-23T07:48:21Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Vehicle-Security-Papers,2020-12-23T10:06:39Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Financial-Audit-Data-Analytics-Papers,2020-12-22T17:42:27Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Text-Clustering-Papers,2020-12-22T17:39:29Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Human-Object-Interaction-Papers,2020-12-22T18:31:21Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Taxonomy-Research-Papers,2020-12-22T18:16:29Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Hate-Speech-Research-Papers,2020-12-22T17:26:52Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Brain-Image-Analysis-Papers,2020-12-22T19:13:47Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/SRC,2019-06-06T00:55:01Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Sketch-Synthesis-Papers,2020-12-21T08:24:15Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Image-Colorization-Papers,2020-12-21T06:36:22Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Edge-Detection-Papers,2020-12-21T05:48:26Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/EHR-DL-Papers,2020-12-20T09:42:56Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/ML-Lectures,2020-12-05T11:46:11Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Pathology-ML-Papers,2020-12-18T17:48:50Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Reasoning-Papers,2020-12-18T16:53:07Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-category-theory-and-related-mathematics,2020-07-18T07:04:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-women-in-the-United-States,2020-07-15T06:32:12Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-the-Middle-Ages,2020-07-15T05:26:13Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Timeline-of-human-prehistory,2020-04-01T05:54:50Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/100-most-influential-people-in-the-world,2020-12-16T04:14:12Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Software-Engineering-AI-Papers,2020-12-16T03:56:11Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Fairness-DL-Papers,2020-12-15T16:48:31Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Hand-Pose-Estimation-Papers,2020-12-14T04:45:18Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Geometry-Learning-Papers,2020-12-13T02:12:27Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Domain-Generalization-Papers,2020-12-13T02:05:23Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Drone-Navigation-DL-Papers,2020-12-12T14:01:07Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Typography-Papers,2020-12-12T13:45:17Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Visual-Positioning-Spatial-Cognition-Papers,2020-12-12T16:20:23Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Few-Shot-Learning-Papers,2020-12-12T13:07:16Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Medical-Image-Segmentation-Papers,2020-12-10T03:12:51Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Top-10-Most-cited-DL-Literature,2020-12-10T02:37:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Image-Enhancement-Papers,2020-12-10T02:08:48Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Cyber-Security-ML-Papers,2020-12-09T14:59:28Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Deep-Computational-Phenotyping-Papers,2020-12-09T11:56:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/11-Great-Computational-Biology-Papers,2020-12-09T11:08:26Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Cardiology-ML-Papers,2020-12-09T09:49:59Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Oncology-ML-Papers,2020-12-09T08:02:25Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Algorithmic-Trading-DL-Papers,2020-12-09T06:51:03Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Tracking-and-Detection-DL-Papers,2020-12-09T04:49:52Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Natural-Language-Understanding-Papers,2020-12-09T03:45:12Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Ecology-DL-Papers,2020-12-09T02:58:06Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Classic-Big-Data-Papers,2020-12-09T02:30:43Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Image-Aesthetics-Papers,2020-12-09T02:11:25Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Awesome-Random-Forest-Papers,2020-12-08T14:39:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Five-Geospatial-Analytics-DL-Papers,2020-12-08T07:26:25Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Space-Science-ML-Papers,2020-12-08T05:53:06Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Geoscience-ML-Papers,2020-12-08T04:03:35Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Domain-Adaptation-Papers,2020-12-06T10:15:20Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/jQuery-Tutorial,2020-03-10T17:06:10Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Global-Sustainability-Research-Papers,2020-12-04T02:52:44Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/JavaScript-Tutorial,2020-03-02T02:24:22Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Variational-Autoencoder-Papers,2020-12-01T00:26:03Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Cosmology-ML-Papers,2020-12-03T07:32:21Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Math-Lectures,2020-12-02T08:21:27Z,17,17,,True,True,N/A
+manjunath5496,manjunath5496/Mathematics-Tutorial,2020-03-27T04:15:46Z,14,14,TeX,True,True,N/A
+manjunath5496,manjunath5496/Physics-Textbooks,2020-11-27T03:38:47Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Biology-Tutorial,2020-03-28T06:58:28Z,3,3,MATLAB,True,True,N/A
+manjunath5496,manjunath5496/Biology-Textbooks,2020-12-01T03:52:24Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Image-Inpainting-Papers,2020-12-01T07:32:21Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Psychiatry-ML-Papers,2020-12-01T02:21:26Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Crowd-Counting-Papers,2020-11-30T16:47:00Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Chemistry-Tutorial,2020-03-25T17:28:32Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Chemistry-Textbooks,2020-11-29T03:37:05Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/Top-4-Analytical-Chemistry-Articles,2020-11-28T02:53:42Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Top-50-Earth-and-Planetary-Sciences-Articles,2020-11-27T16:10:40Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Physics-Tutorial,2020-03-23T07:28:03Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Complex-Networks-Papers,2020-11-27T00:12:58Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Federated-Learning-Papers,2020-11-23T14:53:37Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/CS-Papers,2020-11-09T13:11:25Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Link-Prediction-Papers,2020-11-23T14:06:56Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Interpretable-Machine-Learning-Papers,2020-11-24T02:24:25Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Decision-Tree-Paper-List,2020-11-23T11:41:04Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Common-Sense-Reasoning-Papers,2020-11-23T10:17:35Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Data-Visualization-Papers,2020-11-23T01:57:21Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Adversarial-Defense-Papers,2020-11-23T08:07:07Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Feature-Selection-Papers,2020-11-24T02:04:29Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Speech-Enhancement-Papers,2020-11-23T02:53:04Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Speaker-Verification-Papers,2020-11-23T07:29:43Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Federated-Computing-Papers,2020-11-23T16:17:53Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Space-Books,2020-11-23T12:32:22Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Multi-Armed-Bandits-Papers,2020-11-23T07:00:36Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Voice-Conversion-Papers,2020-11-23T07:54:04Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Multi-View-Learning-Papers,2020-11-24T01:55:25Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Transformer-Papers,2020-11-23T11:24:30Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Temporal-Logic-Papers,2020-11-23T06:11:27Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Inference-Attack-Papers,2020-11-23T06:51:41Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Feature-Extraction-Papers,2020-11-23T16:29:17Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Curriculum-Learning-Papers,2020-11-23T10:04:01Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Missing-Data-Papers,2020-11-24T02:10:14Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Data-Poisoning-Papers,2020-11-23T06:30:46Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Optimization-Papers,2020-11-24T01:46:05Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/AI-Lecture-Notes,2019-09-06T03:38:22Z,16,16,,True,True,N/A
+manjunath5496,manjunath5496/Bayesian-Networks-Papers,2020-11-24T01:52:04Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Top-7-Machine-Learning-Papers,2020-11-23T14:00:46Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Acoustic-Scene-Classification-Papers,2020-11-23T10:12:17Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/ML-Papers,2020-11-20T13:57:07Z,23,23,,True,True,N/A
+manjunath5496,manjunath5496/Genomics-Papers,2020-11-20T12:35:49Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Statistical-Genetics-Papers,2020-11-20T11:36:04Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Chatbot-Research-Papers,2020-11-20T08:49:35Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Multi-Omics-Paper-List,2020-11-18T17:20:38Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Applied-ML-Papers,2020-11-18T16:07:04Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Human-Trajectory-Forecasting-Papers,2020-11-18T11:26:12Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/miRNA-target-gene-prediction-papers,2020-11-18T09:04:34Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Computational-Biology-Books,2019-10-09T05:50:24Z,12,12,,True,True,N/A
+manjunath5496,manjunath5496/Topic-Modeling-Papers,2020-11-18T03:15:18Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Autoencoders-Papers,2020-11-18T02:36:35Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Bayesian-DL-Papers,2020-11-17T15:56:54Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Video-Prediction-Papers,2020-11-15T17:39:08Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Motion-Prediction-Papers,2020-11-15T17:17:58Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Trajectory-Prediction-Papers,2020-11-15T17:10:28Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Network-Pruning-Papers,2020-11-14T12:01:11Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/AI-Books,2018-12-24T10:48:57Z,81,81,,True,True,N/A
+manjunath5496,manjunath5496/Efficient-DNN-Paper-List,2020-11-13T17:41:42Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Automated-DL-Papers,2020-11-13T16:47:58Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Knowledge-Distillation-Papers,2020-11-13T17:12:16Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Model-Compression-Paper-List,2020-11-13T17:22:51Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Network-Speed-and-Compression-Papers,2020-11-13T17:03:32Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Dialogue-and-Interactive-Systems-Papers,2020-11-13T15:21:03Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Question-Generation-Papers,2020-11-13T14:07:28Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Single-Object-Visual-Tracking-Papers,2020-11-13T12:12:45Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Multi-Object-Tracking-Papers,2020-11-13T11:42:30Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Big-Data-Papers,2020-11-13T11:18:56Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Single-Image-Super-Resolution-Papers,2020-11-13T10:24:11Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/System-Design-Papers,2020-11-13T10:01:39Z,10,10,,True,True,N/A
+manjunath5496,manjunath5496/Zero-Shot-Learning-Papers,2020-11-13T09:00:29Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Graph-based-Fraud-Detection-Papers,2020-11-13T07:51:36Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/AI-Chip-Papers,2020-11-13T03:52:37Z,9,9,,True,True,N/A
+manjunath5496,manjunath5496/Computational-Narratology-Papers,2020-11-12T17:08:54Z,7,7,,True,True,N/A
+manjunath5496,manjunath5496/Open-Set-Recognition-Paper-List,2020-11-12T15:05:13Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Speech-Separation-Papers,2020-11-12T11:28:15Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Network-Compression-Papers,2020-11-12T10:57:17Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/10-Computer-Vision-Papers-to-Start,2020-08-16T16:14:01Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Math-ML-Papers,2020-11-10T07:53:09Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Data-Science-Research-Papers,2020-11-10T06:07:37Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Deepfakes-Papers,2020-11-09T14:59:44Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Git-Commands,2020-10-30T03:50:44Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/Chemistry-ML-Papers,2020-11-08T06:05:26Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Ordinary-Differential-Equation-Based-Analysis-Papers,2020-11-08T03:29:10Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/PHP-Exercises-for-Beginners,2020-04-29T03:52:00Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/IoT-Reading-List,2020-11-07T17:45:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Person-Search-Papers,2020-11-07T17:33:08Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Beginner-Java-Exercises,2019-07-31T01:22:49Z,15,15,,True,True,N/A
+manjunath5496,manjunath5496/38-Must-Read-Papers-on-AI,2020-11-06T07:44:57Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/9-Most-Popular-AI-Presentations,2020-10-30T16:51:36Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Top-15-Google-AI-Research-Papers,2020-11-05T17:02:38Z,6,6,,True,True,N/A
+manjunath5496,manjunath5496/PHP-Source-Codes,2020-10-13T06:46:14Z,4,4,,True,True,N/A
+manjunath5496,manjunath5496/Python-programming-exercises,2020-11-03T07:07:22Z,5,5,,True,True,N/A
+manjunath5496,manjunath5496/Text-to-image-papers,2020-10-28T12:45:18Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Image-to-Image-papers,2020-10-28T12:03:04Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Aerial-object-detection-papers,2020-10-28T11:52:27Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/ML-for-Cyber-Security-Papers,2020-10-22T11:31:58Z,8,8,,True,True,N/A
+manjunath5496,manjunath5496/DL-papers-on-text-detection-and-recognition,2020-10-18T13:16:11Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Scene-Text-Understanding-Papers,2020-10-18T14:03:19Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Bayesian-nonparametrics-papers,2020-10-18T04:07:06Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Awesome-Bayesian-DL-Papers,2020-10-18T04:04:28Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Model-Architecture-Search-Paper-List,2020-10-16T10:16:32Z,3,3,,True,True,N/A
+manjunath5496,manjunath5496/Recurrent-Neural-Network-Papers,2020-10-16T07:25:39Z,1,1,,True,True,N/A
+manjunath5496,manjunath5496/Multi-Object-Tracking-Paper-List,2020-10-16T07:50:45Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Disentangled-Representation-Papers,2020-10-16T06:20:48Z,2,2,,True,True,N/A
+manjunath5496,manjunath5496/Neural-Style-Transfer-Papers,2020-10-16T05:26:12Z,1,1,,True,True,N/A
+tanaypratap,tanaypratap/io.metastartup.xpers,2019-02-16T06:35:47Z,4,4,HTML,True,True,N/A
+tanaypratap,tanaypratap/tanaypratap.com,2019-01-20T07:22:11Z,6,6,JavaScript,True,True,other
+tanaypratap,tanaypratap/student-name-site,2020-11-21T04:16:25Z,6,6,HTML,True,True,N/A
+tanaypratap,tanaypratap/teamtanay.jobchallenge.dev,2020-03-10T07:05:46Z,132,132,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/tanay-demo-blog,2020-03-18T17:15:11Z,0,0,JavaScript,True,True,mit
+tanaypratap,tanaypratap/lcf-v2,2020-05-28T11:39:58Z,3,3,JavaScript,True,True,mit
+tanaypratap,tanaypratap/gradiot,2020-04-15T08:06:45Z,5,5,JavaScript,True,True,mit
+tanaypratap,tanaypratap/webpack-5,2021-05-14T12:14:14Z,14,14,JavaScript,True,True,mit
+tanaypratap,tanaypratap/io.metastartup.portfolio,2019-02-05T11:50:29Z,6,6,HTML,True,True,N/A
+tanaypratap,tanaypratap/mentorship-karona,2020-04-09T07:01:47Z,57,57,,True,True,mit
+tanaypratap,tanaypratap/myExpressApp,2021-10-08T05:25:38Z,1,1,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/react2025,2021-09-28T12:09:27Z,2,2,,True,False,N/A
+tanaypratap,tanaypratap/docusaurus-experiments,2021-05-31T16:02:53Z,0,0,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/experiments-with-jest,2021-05-14T12:15:07Z,7,7,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/webpack.js.org,2021-05-14T01:59:09Z,0,0,,True,False,cc-by-4.0
+tanaypratap,tanaypratap/react-router,2021-04-02T18:00:58Z,0,0,,True,True,N/A
+tanaypratap,tanaypratap/fm.neog.dev,2021-01-03T08:24:30Z,4,4,JavaScript,True,True,mit
+tanaypratap,tanaypratap/my-react-router,2021-01-27T07:29:30Z,6,6,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/read.neog.dev,2021-01-03T11:36:35Z,3,3,HTML,True,True,N/A
+tanaypratap,tanaypratap/dare.neog.dev,2021-01-03T11:28:59Z,6,6,HTML,True,True,N/A
+tanaypratap,tanaypratap/my-bootcamp-blog,2020-10-23T20:19:41Z,2,2,HTML,True,True,mit
+tanaypratap,tanaypratap/first-time-speakers,2020-10-02T17:45:44Z,19,19,,False,False,mit
+tanaypratap,tanaypratap/practice.android.about-me,2020-09-23T05:32:37Z,3,3,Kotlin,True,True,N/A
+tanaypratap,tanaypratap/practice.android.roll-dice,2020-09-23T05:03:34Z,0,0,Kotlin,True,True,N/A
+tanaypratap,tanaypratap/learnCodingFree.org,2020-04-19T19:49:05Z,1,1,,True,True,mit
+tanaypratap,tanaypratap/jobchallenge.dev,2020-03-10T08:11:58Z,1,1,HTML,True,True,mit
+tanaypratap,tanaypratap/osi-slides,2019-10-17T19:47:31Z,0,0,CSS,True,True,N/A
+tanaypratap,tanaypratap/osi-workshop,2019-10-16T17:26:32Z,1,1,,True,True,N/A
+tanaypratap,tanaypratap/graphql-wg,2019-04-27T02:46:03Z,1,1,,True,False,N/A
+tanaypratap,tanaypratap/reading-list-app,2018-10-31T10:16:21Z,11,11,JavaScript,True,True,mit
+tanaypratap,tanaypratap/ama,2019-04-18T11:04:27Z,50,50,,True,True,mit
+tanaypratap,tanaypratap/reactmeetup39,2018-11-15T14:23:48Z,2,2,JavaScript,True,True,mit
+tanaypratap,tanaypratap/test-driven-development,2019-03-02T04:43:28Z,2,2,JavaScript,True,True,mit
+tanaypratap,tanaypratap/buzzers,2018-10-27T03:54:33Z,2,2,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/polaris,2018-07-08T16:30:14Z,15,15,TypeScript,True,True,mit
+tanaypratap,tanaypratap/react-webpack2-starter,2017-06-21T17:45:36Z,0,0,JavaScript,True,True,N/A
+tanaypratap,tanaypratap/nodeschool-solutions,2016-12-03T20:54:40Z,2,2,JavaScript,True,True,mit
+tanaypratap,tanaypratap/react-redux-express-starter,2016-09-13T19:52:14Z,2,2,JavaScript,True,True,mit
+tanaypratap,tanaypratap/redux-without-tantrums,2016-09-09T16:04:14Z,1,1,HTML,True,True,mit
+tanaypratap,tanaypratap/learning-deep-learning,2016-09-06T18:24:11Z,0,0,Jupyter Notebook,True,True,mit
+prateek27,prateek27/design-patterns-java,2024-10-01T05:15:15Z,0,0,Java,True,True,N/A
+prateek27,prateek27/oreilly-cpp-basics,2024-08-19T05:40:19Z,0,0,C++,True,True,N/A
+prateek27,prateek27/lpu-bootcamp,2024-06-10T04:04:41Z,5,5,Java,True,True,N/A
+prateek27,prateek27/java-lld-2024,2024-05-15T17:40:22Z,0,0,Java,True,True,N/A
+prateek27,prateek27/scaler-sql,2023-11-24T17:51:42Z,10,10,,True,True,N/A
+prateek27,prateek27/jumpstart-cplus-cplus,2024-05-23T06:16:17Z,0,0,,True,True,N/A
+prateek27,prateek27/prompt-engg,2024-04-19T08:34:29Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/scaler-java-lld1-notes,2024-04-01T11:41:56Z,5,5,,True,True,N/A
+prateek27,prateek27/scaler-sql-notes,2024-04-01T11:27:28Z,9,9,,True,True,N/A
+prateek27,prateek27/python-problems,2024-03-14T06:28:09Z,0,0,Python,True,True,N/A
+prateek27,prateek27/scaler-lld,2023-11-25T06:31:48Z,8,8,Java,True,True,N/A
+prateek27,prateek27/make-pr,2023-11-20T09:04:29Z,0,0,,True,True,N/A
+prateek27,prateek27/tensorflow,2023-11-20T09:01:33Z,0,0,,True,False,apache-2.0
+prateek27,prateek27/my-first-project,2023-11-18T13:12:47Z,0,0,,True,True,N/A
+prateek27,prateek27/sql-batch,2023-10-14T18:02:16Z,3,3,PLpgSQL,True,True,N/A
+prateek27,prateek27/test-rep,2023-06-05T13:50:37Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/java-apr-22,2022-04-19T18:12:30Z,16,16,Java,True,True,N/A
+prateek27,prateek27/machine-learning-essentials,2023-02-18T09:14:34Z,16,16,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/building-snakes-game-tutorial,2018-01-07T11:21:48Z,3,3,JavaScript,True,True,N/A
+prateek27,prateek27/game-dev-session,2022-07-31T15:50:52Z,0,0,,True,True,N/A
+prateek27,prateek27/java-mar-22,2022-03-30T05:24:13Z,13,13,Java,True,True,N/A
+prateek27,prateek27/java-feb-22,2022-02-16T15:32:20Z,7,7,Java,True,True,N/A
+prateek27,prateek27/java-jan-22,2022-01-12T15:21:28Z,12,12,Java,True,True,N/A
+prateek27,prateek27/python-nov-21,2021-11-24T15:17:27Z,4,4,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/java-nov-21,2021-11-24T15:16:58Z,5,5,Java,True,True,N/A
+prateek27,prateek27/java-beginners,2021-10-30T08:04:59Z,4,4,Java,True,True,N/A
+prateek27,prateek27/emoji-class,2021-11-14T17:30:58Z,9,9,,True,True,N/A
+prateek27,prateek27/python-beginners,2021-11-09T18:07:48Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/Coding-Problems,2014-12-11T11:27:09Z,101,101,C++,True,True,N/A
+prateek27,prateek27/interwell-coding-basic-bootcamp,2021-04-10T12:16:03Z,8,8,C++,True,True,N/A
+prateek27,prateek27/igdtu-workshop-markov-chain,2021-04-17T10:04:57Z,2,2,,True,True,N/A
+prateek27,prateek27/graph-algorithms,2021-02-06T10:39:20Z,3,3,,True,True,N/A
+prateek27,prateek27/workshop_ymca,2021-01-20T15:25:10Z,1,1,C++,True,True,N/A
+prateek27,prateek27/interactive-resume,2016-01-17T06:33:03Z,151,151,JavaScript,True,True,N/A
+prateek27,prateek27/Algorithms,2014-06-27T09:33:41Z,62,62,C++,True,True,N/A
+prateek27,prateek27/vit-vellore-2020,2020-10-10T11:38:44Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/editorials,2017-12-09T08:39:02Z,83,83,C++,True,True,N/A
+prateek27,prateek27/game-webinar-javascript,2020-04-17T16:36:54Z,6,6,JavaScript,True,True,N/A
+prateek27,prateek27/spin-win-code,2020-06-07T15:30:29Z,6,6,JavaScript,True,True,N/A
+prateek27,prateek27/covid-fighter-game,2020-05-26T13:35:19Z,1,1,,True,True,N/A
+prateek27,prateek27/phaser-examples,2020-05-20T11:57:12Z,1,1,,True,True,N/A
+prateek27,prateek27/open-cv-basic-webinar,2020-04-12T09:06:03Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/N-Queen-All-Optimisations,2020-04-07T14:01:06Z,7,7,C++,True,True,N/A
+prateek27,prateek27/cnn-basics,2020-03-14T06:38:39Z,1,1,,True,True,N/A
+prateek27,prateek27/data-structures-in-real-life,2020-03-12T17:33:17Z,5,5,HTML,True,True,N/A
+prateek27,prateek27/Editorials-1,2018-06-20T19:09:11Z,1,1,,True,True,N/A
+prateek27,prateek27/jec-workshop,2020-02-08T11:07:31Z,0,0,,True,True,N/A
+prateek27,prateek27/machine-learning-online,2019-12-13T07:33:43Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/superhero-automation,2019-11-08T06:39:33Z,6,6,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/ml-vit-vellore-2019,2019-10-07T04:28:11Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/dtu_ml_workshop,2019-10-12T07:13:06Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/launchpad-aug-18-pitampura,2018-08-25T17:33:43Z,17,17,C++,True,True,N/A
+prateek27,prateek27/algo-pitampura-dec-2018,2018-12-14T12:57:21Z,36,36,C++,True,True,N/A
+prateek27,prateek27/ml-nit-patna,2019-08-28T16:00:48Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/xyz,2019-08-19T10:01:00Z,1,1,Python,True,True,N/A
+prateek27,prateek27/make-a-pr,2019-08-19T05:14:25Z,0,0,,True,True,N/A
+prateek27,prateek27/GitLearnProjectTutorial,2019-08-19T09:06:09Z,1,1,Python,True,True,N/A
+prateek27,prateek27/lnmiit-workshop-ml,2019-08-12T10:11:27Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/Image-Captioning-1,2019-08-15T09:23:27Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/cgc-workshop,2019-07-31T07:33:59Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/coding-orientation,2019-07-28T09:14:39Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/cartoon-gan,2019-07-25T17:23:41Z,2,2,,True,True,N/A
+prateek27,prateek27/generative-adversarial-network,2019-07-25T10:57:27Z,0,0,,True,True,N/A
+prateek27,prateek27/algo-9june-2019,2019-06-09T11:05:11Z,13,13,C++,True,True,N/A
+prateek27,prateek27/algo-6june-2019,2019-06-06T10:59:06Z,6,6,C++,True,True,N/A
+prateek27,prateek27/pokemon-mlbasics,2019-07-04T06:25:05Z,1,1,,True,True,N/A
+prateek27,prateek27/python-for-data-science,2019-05-29T08:50:22Z,5,5,,True,True,N/A
+prateek27,prateek27/data-science-repository,2019-05-28T17:54:16Z,3,3,HTML,True,True,N/A
+prateek27,prateek27/generative-adversarial-networks,2019-05-22T12:10:46Z,3,3,,True,True,N/A
+prateek27,prateek27/image-captioning,2019-05-02T14:18:40Z,2,2,,True,True,N/A
+prateek27,prateek27/RL-Q-Learning,2019-04-28T07:18:44Z,4,4,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/word2vec-applications-transfer-learning-nlp,2019-01-02T05:11:13Z,11,11,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/liver-segmentation,2019-03-31T16:48:58Z,6,6,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/convolution-neural-network-tutorial,2018-12-14T15:35:23Z,12,12,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/pepperfry-image2vec,2019-03-22T05:52:23Z,0,0,,True,True,N/A
+prateek27,prateek27/emoji-predictor-keras,2019-03-07T09:42:39Z,0,0,,True,True,N/A
+prateek27,prateek27/tensorflow-object-detection-api,2019-02-27T13:15:16Z,3,3,,True,True,N/A
+prateek27,prateek27/mobilenet,2019-02-12T06:08:20Z,3,3,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/detecting_dogs_cows,2019-02-20T12:36:28Z,1,1,,True,True,N/A
+prateek27,prateek27/ml-bits-goa-2019,2019-02-18T13:12:27Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/bvp-markov-chain-workshop,2019-02-07T13:22:04Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/emoji-prediction,2019-01-19T18:10:15Z,3,3,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/ml-bootcamp-dtu-2019,2019-01-19T05:09:46Z,4,4,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/alexnet,2019-01-17T14:33:00Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/blood-cell-object-detection,2019-01-16T12:35:30Z,0,0,,True,True,N/A
+prateek27,prateek27/markov-chains-text-generation,2019-01-14T09:36:28Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/conv-nets-transfer-learning,2019-01-05T12:20:57Z,0,0,,True,True,N/A
+prateek27,prateek27/tensorflow-data-pipelines,2019-01-02T04:56:09Z,0,0,,True,True,N/A
+prateek27,prateek27/nlp-feature-extraction-tutorial,2018-12-24T18:09:29Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/heath-dl-projects,2018-12-18T06:15:31Z,0,0,,True,True,N/A
+prateek27,prateek27/fashion_mnist_keras,2018-12-14T13:25:40Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/deep-neural-network,2018-12-01T12:46:24Z,31,31,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/rock-paper-scissor-MLP,2018-12-04T14:32:22Z,1,1,Python,True,True,N/A
+prateek27,prateek27/decision-trees,2018-11-29T18:58:20Z,1,1,,True,True,N/A
+prateek27,prateek27/multi-task-sentence-representation-learning,2018-11-26T06:02:40Z,2,2,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/machine-learning-aug-18,2018-09-01T15:13:21Z,15,15,OpenEdge ABL,True,True,N/A
+prateek27,prateek27/daviet_workshop,2018-10-15T06:09:24Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/experiments-with-tensorflow,2018-09-30T12:42:25Z,1,1,,True,True,N/A
+prateek27,prateek27/tf-getting-started,2018-09-27T16:37:14Z,1,1,,True,True,N/A
+prateek27,prateek27/Classical-Piano-Composer,2018-10-23T19:04:49Z,0,0,Python,True,True,N/A
+prateek27,prateek27/ca-poster-generator,2018-06-07T10:40:46Z,1,1,Python,True,True,N/A
+prateek27,prateek27/algo-june-18,2018-06-08T08:26:24Z,0,0,C++,True,True,N/A
+prateek27,prateek27/easy21-rl,2019-09-25T15:57:07Z,0,0,,True,True,N/A
+prateek27,prateek27/linear-regression-01,2018-04-29T08:35:02Z,8,8,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/python-dev-march-18,2018-03-25T17:47:19Z,3,3,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/ml-workshop-pec-chandigarh,2018-04-11T09:56:35Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/droid-hunt-game,2017-12-08T14:10:28Z,0,0,,True,True,N/A
+prateek27,prateek27/ml-webinar-basics,2017-11-07T08:16:20Z,3,3,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/News-Bot,2017-08-28T12:42:18Z,1,1,,True,True,N/A
+prateek27,prateek27/Workshops,2017-08-21T16:48:00Z,1,1,JavaScript,True,True,N/A
+prateek27,prateek27/ml-webinar-face-recoginition-knn,2017-08-02T19:37:04Z,7,7,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/Blocks-of-Code-,2017-07-29T09:43:38Z,7,7,C++,True,True,N/A
+prateek27,prateek27/hackerblocks-doubts,2017-06-12T08:47:16Z,2,2,C++,True,True,N/A
+prateek27,prateek27/space-shooter,2017-02-24T14:29:38Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/snakes-game,2017-02-24T06:39:43Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/MachineLearningNSIT,2017-02-11T09:59:27Z,1,1,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/NIEC_Workshop,2016-11-26T17:54:48Z,1,1,HTML,True,True,N/A
+prateek27,prateek27/angry-coders,2016-11-21T07:41:28Z,0,0,,True,True,N/A
+prateek27,prateek27/p2.js,2016-12-16T05:42:01Z,1,1,JavaScript,True,True,other
+prateek27,prateek27/platformer-demo,2016-10-02T08:14:59Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/kokare-clothing,2016-09-18T11:03:01Z,0,0,HTML,True,True,mit
+prateek27,prateek27/Platormer-1.0,2016-08-29T15:34:47Z,0,0,,True,True,N/A
+prateek27,prateek27/prateek27.github.io-2.0,2016-08-24T07:06:44Z,1,1,CSS,True,False,mit
+prateek27,prateek27/JSGames,2016-08-02T04:07:29Z,1,1,HTML,True,True,N/A
+prateek27,prateek27/ai-robotics-project,2015-05-20T14:56:31Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/LaunchPad-Jan-Codes,2016-02-26T12:31:53Z,1,1,C++,True,True,N/A
+prateek27,prateek27/neural_networks_flower_recogniser,2016-05-02T08:45:32Z,1,1,Python,True,True,N/A
+prateek27,prateek27/customer-management,2016-04-23T12:18:05Z,0,0,,True,True,N/A
+prateek27,prateek27/hellocoders-ml-nn,2016-04-25T06:27:54Z,0,0,Jupyter Notebook,True,True,N/A
+prateek27,prateek27/mojave-vim-theme,2016-02-05T11:15:56Z,0,0,VimL,True,True,N/A
+prateek27,prateek27/insta-bikers,2016-01-07T15:00:35Z,0,0,Python,True,True,N/A
+prateek27,prateek27/instabike-website,2016-01-09T13:35:20Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/machine-learning-major,2015-11-15T13:04:13Z,1,1,HTML,True,True,N/A
+prateek27,prateek27/smart-city,2015-10-30T11:13:48Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/python_wishes,2015-10-13T13:55:12Z,0,0,Python,True,True,N/A
+prateek27,prateek27/cfi-team30,2015-09-27T13:35:25Z,0,0,HTML,True,True,apache-2.0
+prateek27,prateek27/Experiments-with-Phaser,2014-12-25T17:32:24Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/PathFinding.js,2015-12-05T07:51:31Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/all-about-weather,2015-07-15T20:12:26Z,0,0,Java,True,True,N/A
+prateek27,prateek27/pacman-animation,2015-07-12T18:11:28Z,0,0,CSS,True,True,N/A
+prateek27,prateek27/Python-Scripts,2014-10-09T17:22:34Z,2,2,Python,True,True,N/A
+prateek27,prateek27/gaming-portal,2015-03-31T17:05:29Z,1,1,JavaScript,True,True,N/A
+prateek27,prateek27/web-development,2015-01-18T17:57:38Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/snake-game,2015-06-03T14:13:14Z,0,0,,True,True,N/A
+prateek27,prateek27/programming-self-driving-cars-using-ai,2015-04-19T17:34:07Z,0,0,,True,True,N/A
+prateek27,prateek27/omega_prateek27.github.io,2015-01-08T16:11:02Z,0,0,CSS,True,True,other
+prateek27,prateek27/notepad-prateek27.github.io,2015-01-08T16:37:48Z,0,0,CSS,True,True,N/A
+prateek27,prateek27/jekyllnow-prateek27.github.io,2015-04-15T14:51:31Z,0,0,CSS,True,True,mit
+prateek27,prateek27/tux-eng-game-hosted,2015-03-12T15:59:12Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/html5-localstorage-comments,2015-04-06T12:52:44Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/django,2015-03-21T09:48:48Z,0,0,Python,True,True,N/A
+prateek27,prateek27/doctor-website,2015-04-02T06:55:57Z,0,0,CSS,True,True,N/A
+prateek27,prateek27/test-repository,2015-03-29T12:01:58Z,0,0,Python,True,True,N/A
+prateek27,prateek27/eng-tux,2015-03-12T15:42:19Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/gamershq,2015-03-24T10:14:26Z,1,1,Python,True,True,N/A
+prateek27,prateek27/DataStructureAndAlgorithmicThinkingWithPython,2015-03-23T17:34:50Z,2,2,Python,True,False,N/A
+prateek27,prateek27/programming-python,2015-02-22T09:55:46Z,0,0,,True,True,N/A
+prateek27,prateek27/my-2048,2015-02-17T17:40:30Z,1,1,JavaScript,True,True,N/A
+prateek27,prateek27/blog-prateek27.github.io-default,2015-01-01T17:37:42Z,1,1,JavaScript,True,True,N/A
+prateek27,prateek27/octopress,2015-01-01T17:19:11Z,0,0,Ruby,True,True,N/A
+prateek27,prateek27/Local-Binary-Patterns-OpenCV,2014-12-13T09:13:57Z,0,0,C++,True,True,N/A
+prateek27,prateek27/Scratch-Pad,2014-12-15T23:39:27Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/Using-Android-Face-Detector,2014-12-15T23:30:53Z,1,1,Java,True,True,N/A
+prateek27,prateek27/Face-Recognition,2014-12-13T09:21:00Z,0,0,C++,True,True,N/A
+prateek27,prateek27/Profanity-Checker-Python,2014-10-09T17:40:09Z,1,1,Python,True,True,N/A
+prateek27,prateek27/Surviving-with-android,2014-11-02T10:16:40Z,0,0,,True,True,N/A
+prateek27,prateek27/Fly-High-Modi-Android,2014-08-16T18:11:36Z,0,0,Java,True,True,N/A
+prateek27,prateek27/NaMo-The-Fighter,2014-01-30T16:19:50Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/paint-javascript,2014-08-07T20:07:59Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/calculator-javascript,2014-08-07T19:22:15Z,0,0,CSS,True,True,N/A
+prateek27,prateek27/custom-progress-wheel-android,2014-07-24T11:50:26Z,0,0,Java,True,True,N/A
+prateek27,prateek27/Android-Swipe-View,2014-07-13T19:46:46Z,0,0,Java,True,True,N/A
+prateek27,prateek27/Stylish-Android-Seek-Bar,2014-06-28T05:03:47Z,0,0,Java,True,True,N/A
+prateek27,prateek27/Custom-Android-Widgets,2014-06-27T08:20:27Z,2,2,Java,True,True,N/A
+prateek27,prateek27/android-word-cloud,2014-07-04T14:52:12Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/upCloseSettings,2014-06-27T06:51:50Z,0,0,Java,True,True,N/A
+prateek27,prateek27/saveSvgAsPng,2014-07-05T18:09:00Z,0,0,,True,True,mit
+prateek27,prateek27/sloppy-stars,2014-06-29T06:34:43Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/ListViewAnimations,2014-06-23T07:22:02Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/cardslib,2014-06-17T19:37:43Z,0,0,Java,True,False,N/A
+prateek27,prateek27/Swipeable-Cards,2014-06-17T10:33:35Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/FlatUI,2014-06-17T12:10:56Z,0,0,Java,True,True,N/A
+prateek27,prateek27/django-registration-templates,2015-03-24T17:38:41Z,0,0,HTML,True,True,N/A
+prateek27,prateek27/flyingModi,2014-03-18T07:46:06Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/Android-SlideExpandableListView,2014-06-23T07:13:55Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/FlappyBirdClone,2014-06-29T09:35:23Z,0,0,Objective-C,True,True,mit
+prateek27,prateek27/cardsui-for-android,2014-06-23T07:51:48Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/Namo-The-Fighter-Game,2014-01-30T18:43:44Z,0,0,JavaScript,True,True,N/A
+prateek27,prateek27/WordCram,2014-06-21T06:37:39Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/android-FlipView,2014-06-19T10:38:55Z,0,0,Java,True,True,apache-2.0
+prateek27,prateek27/Catch-The-Pappu,2013-08-20T11:02:47Z,0,0,,True,True,N/A
+prateek27,prateek27/android_animation_test,2014-06-18T08:03:33Z,0,0,,True,True,N/A
+Hack-with-Github,Hack-with-Github/Awesome-Hacking,2016-03-30T15:47:10Z,84310,84310,,False,False,cc0-1.0
+Hack-with-Github,Hack-with-Github/Powerful-Plugins,2016-04-29T10:44:18Z,824,824,,True,False,cc0-1.0
+Hack-with-Github,Hack-with-Github/Windows,2016-07-26T15:15:32Z,1560,1560,,True,True,N/A
+Hack-with-Github,Hack-with-Github/InfoSec-Badges,2017-11-12T18:01:19Z,114,114,,True,False,N/A
+Hack-with-Github,Hack-with-Github/Free-Security-eBooks,2016-04-21T12:26:50Z,4317,4317,,True,False,N/A
+Hack-with-Github,Hack-with-Github/Awesome-Security-Gists,2017-08-10T15:23:10Z,893,893,,True,False,cc0-1.0
+Hack-with-Github,Hack-with-Github/Security-Bookmarks,2016-11-20T06:44:15Z,50,50,,True,False,N/A
+Hack-with-Github,Hack-with-Github/Peerlyst,2016-10-12T05:39:24Z,35,35,,True,True,apache-2.0
+Hack-with-Github,Hack-with-Github/Revoke_API_Keys,2016-10-29T08:20:28Z,43,43,,True,True,mit
+Hack-with-Github,Hack-with-Github/Awesome-Hacking-Tools,2016-04-05T14:50:31Z,142,142,,True,True,apache-2.0
+Hack-with-Github,Hack-with-Github/Android-Sec,2016-07-03T12:54:05Z,35,35,,True,True,cc0-1.0
+rahuldkjain,rahuldkjain/vue-boilerplate,2019-09-16T12:30:32Z,1,1,Vue,True,True,N/A
+rahuldkjain,rahuldkjain/react-elegant-table,2024-07-08T07:34:16Z,0,0,,True,True,mit
+rahuldkjain,rahuldkjain/gh-profile-readme-generator,2020-07-15T14:23:47Z,6,6,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/github-profile-readme-generator,2020-07-15T11:20:48Z,21535,21535,JavaScript,True,True,apache-2.0
+rahuldkjain,rahuldkjain/strapi-cloud,2024-07-21T15:40:57Z,0,0,,True,True,bsd-3-clause
+rahuldkjain,rahuldkjain/3d-animations,2023-03-10T15:07:11Z,6,6,TypeScript,True,True,apache-2.0
+rahuldkjain,rahuldkjain/XRP-OpenEgg,2023-06-24T10:02:34Z,0,0,CSS,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/dhundho,2019-08-03T05:41:00Z,1,1,Java,True,True,N/A
+rahuldkjain,rahuldkjain/rahuldkjain.github.io,2021-07-20T05:02:31Z,10,10,HTML,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/rahuldkjain,2020-07-11T04:32:31Z,44,44,,True,True,N/A
+rahuldkjain,rahuldkjain/blog,2020-05-18T02:31:09Z,3,3,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/neopop-web,2022-07-06T15:24:48Z,1,1,,True,False,apache-2.0
+rahuldkjain,rahuldkjain/cards-stack-animation,2022-03-09T05:15:54Z,19,19,TypeScript,True,True,apache-2.0
+rahuldkjain,rahuldkjain/cool-bio-analytics,2021-07-14T05:06:14Z,4,4,JavaScript,True,True,mit
+rahuldkjain,rahuldkjain/animations,2021-05-16T04:00:22Z,9,9,JavaScript,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/styled-nextjs-boilerplate,2021-07-04T05:10:13Z,2,2,JavaScript,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/india-vaccine-frontend,2021-05-12T01:37:21Z,4,4,,True,True,N/A
+rahuldkjain,rahuldkjain/dhundho-frontend,2019-08-03T06:00:32Z,1,1,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/awesome-frontendmasters,2020-11-21T07:46:05Z,309,309,,True,True,cc0-1.0
+rahuldkjain,rahuldkjain/classification-using-custom-activation-functions,2020-05-30T04:49:33Z,1,1,Jupyter Notebook,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/forem,2020-10-06T17:47:42Z,1,1,,True,True,agpl-3.0
+rahuldkjain,rahuldkjain/emoji-cheat-sheet,2020-07-10T07:24:24Z,9,9,,True,True,mit
+rahuldkjain,rahuldkjain/react-ssr,2020-09-29T09:33:50Z,1,1,JavaScript,True,True,mit
+rahuldkjain,rahuldkjain/react-routing,2020-09-28T09:42:40Z,4,4,JavaScript,True,True,mit
+rahuldkjain,rahuldkjain/responsively-app,2020-09-02T16:49:21Z,4,4,,True,True,agpl-3.0
+rahuldkjain,rahuldkjain/gatsby,2020-07-28T03:08:01Z,3,3,,True,False,mit
+rahuldkjain,rahuldkjain/color-themes,2019-10-17T05:33:20Z,0,0,Vue,True,True,mit
+rahuldkjain,rahuldkjain/portfolio,2018-05-08T16:26:10Z,10,10,CSS,True,True,N/A
+rahuldkjain,rahuldkjain/Rando.js,2020-07-10T06:36:02Z,0,0,,True,True,unlicense
+rahuldkjain,rahuldkjain/vlc,2018-04-15T09:33:03Z,1,1,C,True,False,gpl-2.0
+rahuldkjain,rahuldkjain/Three.js-Animations,2018-02-22T09:23:59Z,0,0,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/WAYWYN,2019-06-07T05:45:11Z,0,0,Java,True,True,N/A
+rahuldkjain,rahuldkjain/ThePigGame,2018-01-07T07:44:58Z,1,1,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/Budgety,2018-01-07T07:58:44Z,2,2,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/python-cheatsheet,2019-02-09T04:47:11Z,8,8,Python,True,True,N/A
+rahuldkjain,rahuldkjain/react-chat-app,2020-05-23T12:19:56Z,2,2,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/graduation,2020-05-20T04:37:59Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/gatsby-starter-blog,2020-05-19T10:57:35Z,0,0,,True,True,mit
+rahuldkjain,rahuldkjain/gatsby-remark-emojis,2020-05-18T07:30:12Z,0,0,,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/first-contributions,2020-04-12T08:26:53Z,1,1,,True,True,mit
+rahuldkjain,rahuldkjain/developerFolio,2020-04-10T14:23:41Z,4,4,,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/remote-jobs,2019-10-18T06:11:01Z,4,4,JavaScript,True,False,cc0-1.0
+rahuldkjain,rahuldkjain/abhijithvijayan.in,2019-10-20T07:00:18Z,1,1,,True,False,mit
+rahuldkjain,rahuldkjain/elasticsearch-cheatsheet,2019-10-18T05:06:43Z,1,1,,True,False,mit
+rahuldkjain,rahuldkjain/home-assistant-polymer,2019-10-17T08:54:33Z,1,1,,True,True,other
+rahuldkjain,rahuldkjain/hacktoberfest,2019-10-16T13:27:04Z,1,1,,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/Hacktoberfest-2019-celebration,2019-10-18T16:22:43Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/finding-falcone,2019-09-05T09:33:34Z,0,0,JavaScript,True,True,mit
+rahuldkjain,rahuldkjain/VideoMaster-Firefox-Extension,2019-10-20T07:11:11Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/awesome-python,2019-09-06T05:16:42Z,3,3,,True,False,other
+rahuldkjain,rahuldkjain/css-animation-transition-cheatsheet,2019-08-26T13:16:50Z,1,1,CSS,True,True,N/A
+rahuldkjain,rahuldkjain/css-grid-cheatsheet,2019-08-26T13:16:05Z,1,1,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/awesome-vue,2019-07-08T03:25:59Z,0,0,,True,False,N/A
+rahuldkjain,rahuldkjain/awesome-interview-questions,2019-09-06T05:22:44Z,2,2,,True,True,N/A
+rahuldkjain,rahuldkjain/AdobeXD_Cheatsheet,2019-03-06T14:48:13Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/scss-cheatsheet,2019-06-18T11:08:04Z,0,0,CSS,True,True,N/A
+rahuldkjain,rahuldkjain/interview-web-app,2019-06-10T08:08:48Z,1,1,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/vue-project-skeleton,2019-05-29T04:30:57Z,0,0,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/frontend-dev-bookmarks,2019-09-06T05:23:34Z,0,0,,True,False,N/A
+rahuldkjain,rahuldkjain/github-user-details-fetcher,2019-05-21T03:16:15Z,0,0,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/CoviThread,2019-05-18T04:35:24Z,0,0,Java,True,True,N/A
+rahuldkjain,rahuldkjain/springMongo,2019-05-18T03:04:26Z,0,0,Java,True,True,N/A
+rahuldkjain,rahuldkjain/springRedis,2019-05-18T02:30:40Z,1,1,Java,True,True,N/A
+rahuldkjain,rahuldkjain/postgresSpring,2019-05-17T08:14:29Z,0,0,Java,True,True,N/A
+rahuldkjain,rahuldkjain/Crop_Prediction,2019-03-02T05:50:40Z,63,63,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/Fusion,2019-01-12T11:17:38Z,0,0,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/vue-2-boilerplate,2019-06-10T05:40:14Z,0,0,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/GDevelop,2019-02-24T02:39:58Z,0,0,C++,True,True,other
+rahuldkjain,rahuldkjain/awesome-computer-science-opportunities,2019-04-13T13:22:25Z,2,2,,True,True,mit
+rahuldkjain,rahuldkjain/django-tutorial,2019-02-05T17:17:18Z,1,1,Python,True,True,N/A
+rahuldkjain,rahuldkjain/public-apis,2019-02-09T04:50:12Z,3,3,Python,True,True,N/A
+rahuldkjain,rahuldkjain/flask-boilerplate,2019-03-02T15:50:38Z,1,1,Python,True,True,apache-2.0
+rahuldkjain,rahuldkjain/django-notifications,2019-02-07T11:35:15Z,0,0,Python,True,True,bsd-3-clause
+rahuldkjain,rahuldkjain/professional-programming,2019-01-27T11:12:26Z,1,1,Shell,True,True,mit
+rahuldkjain,rahuldkjain/tech-interview-handbook,2019-01-23T05:43:57Z,2,2,JavaScript,True,True,mit
+rahuldkjain,rahuldkjain/Open-Source-Internships,2019-01-23T08:36:44Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/Chatbot,2018-12-05T04:35:19Z,0,0,Python,True,True,N/A
+rahuldkjain,rahuldkjain/projects,2018-08-25T14:20:15Z,0,0,HTML,True,False,agpl-3.0
+rahuldkjain,rahuldkjain/Car-Pool,2018-09-09T04:13:12Z,1,1,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/Data-Structures-using-Python,2018-08-16T13:43:46Z,2,2,Jupyter Notebook,True,True,gpl-3.0
+rahuldkjain,rahuldkjain/manim,2018-08-24T11:26:02Z,0,0,Python,True,True,other
+rahuldkjain,rahuldkjain/coala-bears,2018-08-25T13:58:13Z,0,0,Python,True,False,agpl-3.0
+rahuldkjain,rahuldkjain/LenDen,2017-11-11T06:43:49Z,6,6,CSS,True,True,N/A
+rahuldkjain,rahuldkjain/jaano-india-chatbot,2018-08-07T16:43:39Z,0,0,JavaScript,True,True,N/A
+rahuldkjain,rahuldkjain/MainouKitchen,2018-07-26T11:42:42Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/Machine-Learning-API-Tutorial,2018-07-21T06:11:22Z,0,0,Python,True,True,N/A
+rahuldkjain,rahuldkjain/CP,2018-07-13T10:02:40Z,0,0,Python,True,True,N/A
+rahuldkjain,rahuldkjain/Learn_Machine_Learning_in_3_Months,2018-06-28T06:25:46Z,1,1,,True,True,N/A
+rahuldkjain,rahuldkjain/Problem-Solving-in-Data-Structures-Algorithms-using-Java,2018-08-26T03:15:06Z,1,1,Java,True,True,N/A
+rahuldkjain,rahuldkjain/AI_Freelancing,2018-06-17T03:33:17Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/Learn_Computer_Science_in_5_Months,2018-06-20T02:22:13Z,0,0,,True,True,N/A
+rahuldkjain,rahuldkjain/IIIT-Workshop,2018-04-15T09:45:53Z,0,0,HTML,True,True,apache-2.0
+rahuldkjain,rahuldkjain/linux,2018-04-15T09:29:16Z,0,0,C,True,False,other
+rahuldkjain,rahuldkjain/Learn_Blockchain_in_2_months,2018-06-28T06:26:28Z,1,1,,True,True,N/A
+rahuldkjain,rahuldkjain/placement,2018-03-20T06:51:21Z,0,0,HTML,True,True,N/A
+rahuldkjain,rahuldkjain/Bill,2017-10-01T10:49:05Z,0,0,PHP,True,True,N/A
+rahuldkjain,rahuldkjain/imad-app-v2,2017-03-14T13:38:23Z,0,0,HTML,True,True,N/A
+callicoder,callicoder/spring-boot-websocket-chat-demo,2017-07-25T13:06:54Z,1052,1052,Java,True,True,N/A
+callicoder,callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo,2018-04-30T10:21:38Z,276,276,Java,True,True,N/A
+callicoder,callicoder/spring-boot-quartz-scheduler-email-scheduling,2018-09-03T09:13:19Z,160,160,Java,True,True,N/A
+callicoder,callicoder/spring-boot-mysql-rest-api-tutorial,2017-06-27T13:31:50Z,415,415,Java,True,True,N/A
+callicoder,callicoder/java-collections-examples,2018-04-24T07:24:10Z,140,140,Java,True,True,N/A
+callicoder,callicoder/go-docker,2018-12-22T10:59:13Z,44,44,Go,True,True,N/A
+callicoder,callicoder/nextjs-blog-theme,2023-12-19T14:13:29Z,0,0,JavaScript,True,True,mit
+callicoder,callicoder/spring-security-react-ant-design-polls-app,2018-02-28T05:01:35Z,1770,1770,Java,True,True,N/A
+callicoder,callicoder/spring-boot-react-oauth2-social-login-demo,2018-10-01T04:19:38Z,1450,1450,Java,True,True,N/A
+callicoder,callicoder/ulaar,2023-09-30T13:29:35Z,0,0,,True,True,mit
+callicoder,callicoder/callicoder,2020-08-14T04:23:46Z,6,6,,True,True,N/A
+callicoder,callicoder/spring-webclient-webtestclient-demo,2017-11-12T14:38:53Z,48,48,Java,True,True,N/A
+callicoder,callicoder/spring-boot-mongodb-angular-todo-app,2016-04-06T06:30:12Z,91,91,TypeScript,True,True,N/A
+callicoder,callicoder/golang-tutorials,2018-01-19T14:22:33Z,396,396,Go,True,True,N/A
+callicoder,callicoder/react-json-view,2022-12-28T02:46:34Z,0,0,,True,True,mit
+callicoder,callicoder/go-kubernetes,2019-07-23T09:28:06Z,35,35,Go,True,True,N/A
+callicoder,callicoder/go-docker-compose,2018-12-23T11:25:28Z,114,114,Go,True,True,N/A
+callicoder,callicoder/ethereum-development,2021-10-23T12:39:36Z,0,0,Solidity,True,True,N/A
+callicoder,callicoder/kotlin-spring-boot-jpa-rest-api-demo,2017-10-05T08:44:01Z,89,89,Kotlin,True,True,N/A
+callicoder,callicoder/spring-boot-configuration-properties-demo,2018-08-31T13:00:21Z,16,16,Java,True,True,N/A
+callicoder,callicoder/jpa-hibernate-tutorials,2017-11-22T05:20:22Z,275,275,Java,True,True,N/A
+callicoder,callicoder/spring-boot-file-upload-download-rest-api-example,2018-04-11T14:04:31Z,409,409,Java,True,True,N/A
+callicoder,callicoder/spring-webflux-reactive-rest-api-demo,2017-09-12T11:01:46Z,160,160,Java,True,True,N/A
+callicoder,callicoder/spring-boot-thymeleaf-tour,2017-07-04T08:10:48Z,7,7,Java,True,True,N/A
+callicoder,callicoder/spring-boot-scheduler-example,2017-08-03T14:03:57Z,34,34,Java,True,True,N/A
+callicoder,callicoder/java-concurrency-examples,2017-05-09T09:01:16Z,282,282,Java,True,True,N/A
+callicoder,callicoder/python-google-analytics-popular-pages,2019-08-09T11:09:41Z,7,7,Python,True,True,N/A
+callicoder,callicoder/go-commons,2019-09-23T10:40:39Z,9,9,Go,True,True,N/A
+callicoder,callicoder/jsonlint,2020-11-19T17:56:11Z,1,1,,True,True,N/A
+callicoder,callicoder/java-snowflake,2018-11-17T10:29:36Z,172,172,Java,True,True,N/A
+callicoder,callicoder/spring-boot-actuator-demo,2018-06-17T05:58:58Z,79,79,Java,True,True,N/A
+callicoder,callicoder/webtools,2019-02-15T12:10:38Z,8,8,Java,True,True,N/A
+callicoder,callicoder/go-redis-kubernetes,2019-07-24T08:40:27Z,17,17,Go,True,True,N/A
+callicoder,callicoder/go-docker-swarm,2018-12-23T11:53:38Z,13,13,Go,True,True,N/A
+callicoder,callicoder/go-ready,2019-01-30T06:40:51Z,3,3,Go,True,True,N/A
+callicoder,callicoder/kubernetes-go-grpc,2018-12-17T17:24:55Z,4,4,Go,True,True,N/A
+callicoder,callicoder/mattermost-webapp,2018-10-16T08:04:36Z,3,3,JavaScript,True,False,apache-2.0
+callicoder,callicoder/emitter,2018-10-16T11:10:01Z,3,3,Go,True,True,agpl-3.0
+callicoder,callicoder/node-easy-notes-app,2017-05-26T12:42:47Z,173,173,JavaScript,True,True,N/A
+callicoder,callicoder/mattermost-server,2018-09-04T12:34:46Z,4,4,Go,True,False,other
+callicoder,callicoder/clojure-koans,2018-10-31T06:25:03Z,2,2,Clojure,True,True,N/A
+callicoder,callicoder/ML-Demand-Prediction,2018-07-15T03:33:16Z,24,24,Python,True,True,N/A
+callicoder,callicoder/spring-boot-heroku-deployment-example,2018-04-02T09:44:22Z,15,15,Shell,True,True,N/A
+callicoder,callicoder/java-read-write-csv-file,2017-09-29T03:45:56Z,66,66,Java,True,True,N/A
+callicoder,callicoder/spring-boot-flyway-example,2017-08-20T14:51:05Z,50,50,Shell,True,True,N/A
+callicoder,callicoder/java-read-write-excel-file-using-apache-poi,2017-12-22T12:03:07Z,119,119,Java,True,True,N/A
+callicoder,callicoder/spring-boot-log4j-2-demo,2017-08-11T14:08:13Z,34,34,Shell,True,True,N/A
+callicoder,callicoder/kotlin-tutorials,2018-01-19T16:08:39Z,5,5,Kotlin,True,True,N/A
+callicoder,callicoder/lite-rx-api-hands-on,2017-09-08T09:41:58Z,2,2,Java,True,False,N/A
+callicoder,callicoder/javafx-examples,2017-05-02T10:20:24Z,103,103,Java,True,True,N/A
+callicoder,callicoder/spring-reactive-university,2017-09-08T09:44:01Z,2,2,Java,True,False,N/A
+callicoder,callicoder/qr-code-generator-and-reader,2017-08-22T11:41:38Z,34,34,Java,True,True,N/A
+callicoder,callicoder/scala-learner-worksheet,2016-08-31T10:12:44Z,2,2,Scala,True,True,N/A
+callicoder,callicoder/ProjectRTC,2016-12-20T12:33:43Z,1,1,JavaScript,True,True,other
+callicoder,callicoder/csgo-price-indexing,2016-11-10T06:38:10Z,3,3,Python,True,True,N/A
+callicoder,callicoder/AndroidRTC,2016-12-20T12:33:49Z,1,1,Java,True,True,other
+callicoder,callicoder/mqtt-publish-subscribe,2016-10-19T09:35:21Z,4,4,Java,True,True,N/A
+callicoder,callicoder/material-commerce,2015-10-12T11:49:30Z,5,5,HTML,True,True,N/A
+callicoder,callicoder/node-image-processing,2015-08-17T03:31:03Z,4,4,JavaScript,True,True,N/A
+callicoder,callicoder/node-chat-app,2015-08-18T21:36:41Z,6,6,JavaScript,True,True,N/A
+callicoder,callicoder/play-scala-slick-learner,2016-08-06T16:24:50Z,2,2,Scala,True,True,other
+callicoder,callicoder/testing-spring-boot-applications,2017-04-09T04:25:20Z,4,4,Java,True,True,N/A
+callicoder,callicoder/TaxiPrediction,2018-07-14T12:09:07Z,1,1,Jupyter Notebook,True,True,N/A
+callicoder,callicoder/bagpiper,2015-10-15T15:13:03Z,4,4,Python,True,True,N/A
+callicoder,callicoder/mean-todo-app,2015-05-06T19:59:13Z,6,6,JavaScript,True,True,N/A
+callicoder,callicoder/algorhythm,2015-05-18T17:59:23Z,3,3,C++,True,True,mit
+callicoder,callicoder/python-pubnub-chat,2015-09-02T19:41:11Z,5,5,CSS,True,True,N/A
+callicoder,callicoder/py-djangular,2015-07-16T18:04:58Z,2,2,JavaScript,True,True,N/A
+callicoder,callicoder/pyjango,2015-07-12T06:01:39Z,2,2,Python,True,True,N/A
+callicoder,callicoder/apprtc-android,2016-12-20T12:39:15Z,1,1,Java,True,True,other
+vinitshahdeo,vinitshahdeo/10Xtober,2024-10-16T07:06:00Z,0,0,,True,False,mit
+vinitshahdeo,vinitshahdeo/portfolio,2024-06-28T14:27:57Z,26,26,Astro,True,False,mit
+vinitshahdeo,vinitshahdeo/FinTech-GenAI-Fireside-Chat,2024-09-22T08:47:03Z,0,0,,True,False,mit
+vinitshahdeo,vinitshahdeo/vinitshahdeo,2020-07-09T08:05:46Z,60,60,,True,True,mit
+vinitshahdeo,vinitshahdeo/inspirational-quotes,2018-11-22T11:21:33Z,332,332,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/jobtweets,2017-05-03T23:35:25Z,116,116,Python,True,True,mit
+vinitshahdeo,vinitshahdeo/50DaysOfJavaScript,2023-01-07T18:03:07Z,31,31,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/portfolio-ideas,2024-08-04T10:29:37Z,2,2,Markdown,True,True,mit
+vinitshahdeo,vinitshahdeo/developer-portfolios,2024-08-04T10:21:03Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/wedding-website,2022-05-21T10:54:32Z,33,33,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Wedding-Invitation,2020-11-07T21:44:05Z,195,195,CSS,True,True,agpl-3.0
+vinitshahdeo,vinitshahdeo/PortScanner,2020-06-03T11:14:34Z,133,133,Python,True,True,mit
+vinitshahdeo,vinitshahdeo/Hacktoberfest2021,2021-08-28T20:49:05Z,810,810,,True,False,mit
+vinitshahdeo,vinitshahdeo/holopin-readme-badge,2022-11-24T21:04:44Z,12,12,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Water-Monitoring-System,2018-07-19T22:06:05Z,148,148,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/peerlist-readme-badge,2022-07-01T18:54:03Z,62,62,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Email-Signature-Template,2019-05-19T01:33:32Z,118,118,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/HBD,2017-05-08T19:33:15Z,157,157,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/SimpleBio,2017-04-08T22:22:18Z,60,60,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/MiniYouTube,2018-12-02T19:03:49Z,32,32,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/pan-aadhaar-ocr,2023-09-07T20:29:28Z,14,14,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/JavaScript-Resources,2021-10-23T10:35:35Z,63,63,,True,True,mit
+vinitshahdeo,vinitshahdeo/newrelic-to-postman,2023-04-28T11:25:09Z,0,0,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/newrelic-nerdgraph-client,2023-05-12T10:55:41Z,1,1,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/openapi-url-resolver,2023-04-19T19:50:39Z,6,6,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/openapi.tools,2023-04-25T14:42:39Z,2,2,HTML,True,False,mit
+vinitshahdeo,vinitshahdeo/LRUCache,2023-03-11T20:29:25Z,2,2,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/copilot,2023-03-31T19:23:30Z,1,1,JavaScript,True,False,mit
+vinitshahdeo,vinitshahdeo/ParkingLot,2019-12-07T07:50:57Z,56,56,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Quotter,2019-02-06T19:10:28Z,37,37,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/gsoc-2023,2023-02-22T07:24:16Z,2,2,,True,True,N/A
+vinitshahdeo,vinitshahdeo/topmate-readme-badge,2022-10-14T19:19:23Z,19,19,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Corona-India,2020-03-25T23:01:17Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/myFaculty,2019-12-16T13:34:15Z,18,18,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/public-api-postman-collection,2022-12-19T08:03:36Z,1,1,,True,False,mit
+vinitshahdeo,vinitshahdeo/auto-comment,2024-02-08T14:27:45Z,0,0,,True,False,mit
+vinitshahdeo,vinitshahdeo/covid19api,2020-06-17T14:31:10Z,33,33,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Learning-React,2018-12-01T09:29:45Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Mini-YouTube,2019-12-11T17:32:06Z,10,10,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/beautify-github-profile,2022-11-05T21:28:21Z,1,1,,True,True,cc0-1.0
+vinitshahdeo,vinitshahdeo/Hashtagify,2019-04-22T16:57:01Z,162,162,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Recruitment-Portal,2017-11-29T10:50:02Z,37,37,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/api-1,2020-06-28T13:35:49Z,1,1,,True,True,gpl-3.0
+vinitshahdeo,vinitshahdeo/multi-file-oas-example,2022-09-14T05:54:17Z,1,1,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/HashnodeBlog,2021-05-12T22:50:51Z,3,3,,True,True,mit
+vinitshahdeo,vinitshahdeo/multi-file-openapi-specification,2022-07-05T07:45:23Z,1,1,,True,False,apache-2.0
+vinitshahdeo,vinitshahdeo/Map-of-India,2020-08-14T23:50:19Z,83,83,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/hacktoberfest-issue-hunt,2021-10-06T18:56:09Z,12,12,JavaScript,False,False,mit
+vinitshahdeo,vinitshahdeo/postman-schema-editor,2020-12-04T04:44:16Z,1,1,JavaScript,True,True,N/A
+vinitshahdeo,vinitshahdeo/ProgressiveNewsApp,2020-01-11T21:56:30Z,41,41,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/awesome-tech-blogs,2022-02-27T21:29:38Z,1,1,JavaScript,True,True,N/A
+vinitshahdeo,vinitshahdeo/volos,2021-11-25T09:18:56Z,0,0,,True,True,other
+vinitshahdeo,vinitshahdeo/hello-apifirst-world,2021-11-09T10:34:20Z,0,0,JavaScript,True,True,N/A
+vinitshahdeo,vinitshahdeo/FaceRecognition,2018-11-20T07:59:55Z,19,19,Jupyter Notebook,True,True,mit
+vinitshahdeo,vinitshahdeo/VIT-WiFi-Phishing,2017-08-19T21:06:18Z,1,1,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/Cookie-Manager,2019-01-17T17:02:10Z,30,30,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/TwitterSentimentAnalysis,2018-11-20T10:38:38Z,37,37,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/Hackathon-Timer,2019-03-26T17:37:09Z,10,10,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/online-debate-system,2017-04-25T15:57:34Z,52,52,Hack,True,True,mit
+vinitshahdeo,vinitshahdeo/github-stars-feed,2021-05-11T18:20:54Z,32,32,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/GitHubLookBook,2019-12-09T19:26:03Z,15,15,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Hacktoberfest2020,2020-09-12T18:09:39Z,245,245,,True,True,mit
+vinitshahdeo,vinitshahdeo/CookOff-4.0,2018-10-15T16:49:11Z,8,8,C++,True,True,mit
+vinitshahdeo,vinitshahdeo/PayingHomage,2021-04-18T20:48:23Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/COVID19,2020-03-30T20:17:28Z,122,122,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/HacktoberFest2K19,2019-09-26T17:51:31Z,36,36,,True,True,mit
+vinitshahdeo,vinitshahdeo/pem,2020-10-05T10:46:02Z,3,3,JavaScript,True,True,other
+vinitshahdeo,vinitshahdeo/Library-Management-System,2017-11-29T10:51:16Z,189,189,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/postman-app-support,2019-05-07T13:11:17Z,1,1,,True,True,N/A
+vinitshahdeo,vinitshahdeo/open-source-edu-bot,2020-07-17T21:59:35Z,1,1,Python,True,False,mit
+vinitshahdeo,vinitshahdeo/vinitshahdeo.github.io,2019-12-12T18:00:50Z,12,12,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/git-webinar,2020-07-04T08:07:47Z,1,1,,True,True,N/A
+vinitshahdeo,vinitshahdeo/Event-Loop-In-JavaScript,2020-04-18T19:16:01Z,8,8,,True,True,mit
+vinitshahdeo,vinitshahdeo/ipmanagement-blockchain,2020-05-10T19:14:43Z,3,3,,True,True,N/A
+vinitshahdeo,vinitshahdeo/plots2,2019-11-06T17:31:05Z,0,0,Ruby,True,True,gpl-3.0
+vinitshahdeo,vinitshahdeo/personalsit.es,2020-01-29T05:26:40Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/Cook-Off-3.0,2017-09-22T10:17:10Z,7,7,C++,True,True,mit
+vinitshahdeo,vinitshahdeo/awesome-twitter-bots,2019-12-21T08:51:15Z,2,2,,True,True,N/A
+vinitshahdeo,vinitshahdeo/mentorship-android,2019-11-21T23:44:44Z,0,0,Kotlin,True,True,gpl-3.0
+vinitshahdeo,vinitshahdeo/systers.github.io,2019-11-21T08:31:18Z,0,0,TypeScript,True,True,gpl-2.0
+vinitshahdeo,vinitshahdeo/Social-Platform-Donut,2019-11-19T01:00:53Z,0,0,CSS,True,True,gpl-3.0
+vinitshahdeo,vinitshahdeo/website-www.codeuino.org,2019-11-19T19:32:25Z,0,0,CSS,True,True,N/A
+vinitshahdeo,vinitshahdeo/chat-platform,2019-11-19T00:03:54Z,0,0,CSS,True,True,gpl-3.0
+vinitshahdeo,vinitshahdeo/react-otp-input,2019-10-04T17:49:25Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/HacktoberFest2019,2019-10-01T08:08:07Z,0,0,PHP,True,True,N/A
+vinitshahdeo,vinitshahdeo/awesome-hacktoberfest-2019,2019-10-11T11:39:38Z,1,1,,True,True,N/A
+vinitshahdeo,vinitshahdeo/Hacktoberfest19,2019-10-01T08:04:38Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/girlscript_web,2019-11-22T19:06:55Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/GitHub-LookBook,2017-07-11T17:44:00Z,19,19,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/devjoke,2019-10-01T15:53:20Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/HacktoberFest,2019-10-01T17:36:35Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/panda-portfolio,2019-10-01T08:14:41Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Comprehensive,2018-12-14T15:27:44Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/celeb-diwali,2018-11-07T21:01:28Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/sinon,2019-05-07T12:43:29Z,0,0,JavaScript,True,False,other
+vinitshahdeo,vinitshahdeo/DSA-Lab-Codes,2017-09-10T06:52:49Z,6,6,C++,True,True,mit
+vinitshahdeo,vinitshahdeo/miTweet,2017-02-06T17:18:23Z,1,1,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/IPL-Swiggy6,2019-04-18T10:40:04Z,3,3,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/coaching-website,2017-05-04T20:00:10Z,6,6,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/GitHub-Popular-Searches,2019-02-21T12:18:51Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/FLAMES,2017-02-06T20:42:45Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/VinHack,2019-03-17T21:29:21Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/DEVSOC-2k19,2019-03-13T18:41:05Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/CodeChefVIT,2017-04-12T00:23:18Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/datasf.github.io,2019-04-03T18:44:27Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/WeatherApp,2019-03-27T09:18:52Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/TodayInHistory,2018-10-19T12:08:24Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/InspireMe,2018-12-28T11:26:21Z,1,1,Objective-C,True,True,mit
+vinitshahdeo,vinitshahdeo/cookie-cleaner,2019-01-10T12:15:08Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Mobile-Portfolio,2017-08-09T19:37:44Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/CodeCombat,2017-04-06T20:47:27Z,1,1,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/ServerHub,2018-11-05T09:48:03Z,2,2,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/awesome-projects-boilerplates,2019-03-17T20:50:53Z,1,1,,True,True,N/A
+vinitshahdeo,vinitshahdeo/send-cookies,2018-12-24T12:26:00Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/electron-quick-start,2018-12-24T07:10:16Z,0,0,JavaScript,True,True,cc0-1.0
+vinitshahdeo,vinitshahdeo/TeamScoreApp,2017-02-28T05:54:56Z,1,1,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Happy-New-Year-Wish,2017-01-17T17:08:08Z,3,3,PHP,True,True,N/A
+vinitshahdeo,vinitshahdeo/Webathon,2017-09-11T18:24:55Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Truth-OR-Dare-Game,2017-01-18T18:46:35Z,11,11,HTML,True,True,N/A
+vinitshahdeo,vinitshahdeo/Music-Composer-Website,2017-10-23T20:44:27Z,2,2,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/FFCS-Free-Slots,2017-05-02T11:46:34Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/Code-A-Strike,2017-03-17T20:22:10Z,0,0,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/FacultySearchPortal,2018-11-06T18:18:46Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/CookOff,2017-05-26T10:56:23Z,1,1,C++,True,True,mit
+vinitshahdeo,vinitshahdeo/Wikipedia-Instant-Search,2017-05-12T11:20:43Z,1,1,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/GetQuotes,2018-10-18T20:24:08Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/AlgoWiki,2018-11-22T01:57:28Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/face_recognition,2018-09-16T15:12:54Z,0,0,Python,True,True,mit
+vinitshahdeo,vinitshahdeo/team-9,2018-08-18T20:59:37Z,0,0,CSS,True,True,N/A
+vinitshahdeo,vinitshahdeo/PHP-Mailer,2019-01-28T17:45:57Z,0,0,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/Agriculture,2018-03-18T11:34:37Z,0,0,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/digital-footprint,2018-03-28T06:36:10Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/Ideathon,2018-03-11T08:04:30Z,0,0,Python,True,True,mit
+vinitshahdeo,vinitshahdeo/community-codechef,2018-02-01T17:34:11Z,1,1,Java,True,True,N/A
+vinitshahdeo,vinitshahdeo/WebDev-InCore-Sessions,2017-03-17T20:59:42Z,1,1,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/MAD-DA,2018-01-18T16:50:29Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/Beginner-Template,2017-07-19T12:18:45Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/OlaMusicPlayer,2018-03-19T20:01:21Z,0,0,Java,True,True,N/A
+vinitshahdeo,vinitshahdeo/Old-Portfolio,2017-07-25T08:59:00Z,2,2,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/Evolutionary-Algorithm,2018-03-11T08:21:18Z,0,0,Python,True,True,mit
+vinitshahdeo,vinitshahdeo/SmartBaggageTracker,2017-12-01T20:23:06Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/Compiler,2017-11-27T10:18:23Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/TechFest,2017-11-11T21:02:31Z,7,7,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/TableEntry,2017-03-17T22:01:40Z,1,1,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/E-Commerce-Website,2017-11-06T10:50:50Z,4,4,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/Udemy-Assignment,2017-11-07T19:04:47Z,0,0,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/NodeJS-MySQL,2017-10-22T00:44:19Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/qrbarcodescanner,2017-10-26T10:59:25Z,0,0,Java,True,True,N/A
+vinitshahdeo,vinitshahdeo/node-todo,2017-10-31T14:55:32Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Notes-App,2017-10-20T23:51:10Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/Code-Monk,2017-10-18T22:11:11Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/ChemicalEquationParser,2017-10-10T17:32:14Z,0,0,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/deep-learning-coursera,2017-11-05T19:17:18Z,0,0,Jupyter Notebook,True,True,mit
+vinitshahdeo,vinitshahdeo/CodeChef-VIT-Website,2017-08-27T16:00:54Z,2,2,HTML,True,True,mit
+vinitshahdeo,vinitshahdeo/MusicPLayer-sensors,2019-02-08T21:27:02Z,0,0,Java,True,True,N/A
+vinitshahdeo,vinitshahdeo/Login-Form,2017-08-11T11:57:34Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/MatLab-Codes,2017-07-22T19:42:43Z,0,0,Matlab,True,True,mit
+vinitshahdeo,vinitshahdeo/parallax_scrolling,2017-07-19T09:03:05Z,0,0,HTML,True,True,N/A
+vinitshahdeo,vinitshahdeo/RCPL,2017-05-26T10:24:13Z,0,0,Java,True,True,mit
+vinitshahdeo,vinitshahdeo/AndroidApps,2017-06-03T19:26:01Z,0,0,,True,True,mit
+vinitshahdeo,vinitshahdeo/Planoholic,2017-05-31T19:19:47Z,0,0,JavaScript,True,True,mit
+vinitshahdeo,vinitshahdeo/GetInspired,2017-04-30T18:37:13Z,0,0,CSS,True,True,mit
+vinitshahdeo,vinitshahdeo/TutorialPoint,2017-05-08T15:18:27Z,0,0,PHP,True,True,mit
+vinitshahdeo,vinitshahdeo/DreamDebate,2017-05-02T17:20:52Z,0,0,,True,True,N/A
+vinitshahdeo,vinitshahdeo/OnlineComplaintSystem,2017-05-01T08:40:52Z,0,0,PHP,True,True,N/A
+vinitshahdeo,vinitshahdeo/chrome-app-samples,2017-04-03T16:19:29Z,0,0,JavaScript,True,True,apache-2.0
+vinitshahdeo,vinitshahdeo/Square-Calculator,2016-12-27T17:26:12Z,1,1,CSS,True,True,N/A
+vinitshahdeo,vinitshahdeo/Tech-Pirates,2016-07-30T18:03:41Z,0,0,PHP,True,True,N/A
+vinitshahdeo,vinitshahdeo/Intro-Financial-Accounting,2018-03-22T17:38:26Z,0,0,HTML,True,True,N/A
+vinitshahdeo,vinitshahdeo/demo-nodejs-mongodb-rest,2017-10-31T15:13:12Z,0,0,JavaScript,True,True,N/A
