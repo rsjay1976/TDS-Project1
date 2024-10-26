@@ -19,5 +19,8 @@ Git hub users analysis repo
 
 **Interesting/Surprising facts**
 
+    1. Python and jupyter accounted for 40% of language commits
+
+    2. 
    1. Only    
     
