@@ -9,9 +9,11 @@ Git hub users analysis repo
     
     3. Used google collab to run python note book
     
-    4. The only change which had to be done in python code was replacement of token
+    4. The only change which had to be done in python code was replacement of user token
     
-    5. Ran the program which generated the top 100 users in bangalore as csv
+    5. Ran the program which generated the top 100 users in bangalore as csv (this gave only 5-6 users)
+
+    5.5. So step5 raised a doubt and ran the users script with Bengaluru (this gave 20 users).. So  overall step 5 + Step 5.5 = 25 users
     
     6. Ran the second program which used the top100userscsv as input
     
@@ -19,8 +21,10 @@ Git hub users analysis repo
 
 **Interesting/Surprising facts**
 
-    1. Python and jupyter accounted for 40% of language commits
+    1. Python is grouped individually as juniper note book and python (but overall had 450 references) making it most popular in github
+       (please refer the pivot generated from repository-chart.xls)
 
-    2. 
-   1. Only    
+    2. Next in list were javascript and java respectively
+    
+       
     
