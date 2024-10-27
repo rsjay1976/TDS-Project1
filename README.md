@@ -1,7 +1,7 @@
 # TDS-Project1
 Git hub users analysis repo
 
-**How data was scrapped**
+- **How data was scrapped**
    
     1. Created a user token for using rest api in github 
     
@@ -19,12 +19,13 @@ Git hub users analysis repo
     
     7. Both the output as well as the programs have been checked in to this repo.
 
-**Interesting/Surprising facts**
+- **Interesting/Surprising facts**
 
     1. Python is grouped individually as juniper note book and python (but overall had 450 references) making it most popular in github
        (please refer the pivot generated from repository-chart.xls)
 
     2. Next in list were javascript and java respectively
-    
+
+- **Recommendation**
        
     
