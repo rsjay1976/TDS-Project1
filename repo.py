@@ -44,6 +44,7 @@ with open("repositories.csv", mode="w", newline='') as file:
 
             # Write each repository's information to the CSV
             for repo in repos:
+                license_name = repo.get("license", {}).get("key") if repo.get("license") else "N/A"                
                 writer.writerow([
                     username,
                     repo.get("full_name", "N/A"),
@@ -53,7 +54,7 @@ with open("repositories.csv", mode="w", newline='') as file:
                     repo.get("language", "N/A"),
                     repo.get("has_projects", False),
                     repo.get("has_wiki", False),
-                    repo.get("license", {}).get("key", "N/A")  # License name
+                    license_name # License name
                 ])
 
 print("Data saved to repositories.csv")
