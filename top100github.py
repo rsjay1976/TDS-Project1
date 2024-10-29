@@ -9,10 +9,12 @@ headers = {
     "Authorization": "Bearer YOUR_GITHUB_TOKEN"  # Replace with your GitHub token
 }
 
+page = 1
 # Search parameters for users in Bangalore with over 100 followers
 search_params = {
     "q": "location:bangalore followers:>=100",
-    "per_page": 10  # Limit per page (adjust if you want more results)
+    "per_page": 100  # Limit per page (adjust if you want more results),
+    "page":page
 }
 
 def clean_company_name(company_name):
@@ -20,16 +22,21 @@ def clean_company_name(company_name):
     return company_name.strip().lstrip('@').upper()
 
 # Get search results (up to 100 users per page)
-response = requests.get(search_url, headers=headers, params=search_params)
-users_data = response.json().get("items", [])
 
+header = true
 # Open CSV file for writing
 with open("github_users_bangalore_detailed.csv", mode="w", newline='') as file:
+while True:
+    response = requests.get(search_url, headers=headers, params=search_params)
+    if response.status_code != 200:
+            print(f"Error: {response.status_code}")
+            break
+    users_data = response.json().get("items", [])
     writer = csv.writer(file)
     # Write header row
     writer.writerow(["Login", "Name", "Company", "Location", "Email", "Hireable", "Bio", 
                      "Public Repos", "Followers", "Following", "Created At"])
-
+    header=false
     # Loop through each user in the search results
     for user in users_data:
         # Get detailed user data from /users/{username} endpoint
@@ -52,5 +59,8 @@ with open("github_users_bangalore_detailed.csv", mode="w", newline='') as file:
         # Write row to CSV
         writer.writerow([login, name, company, location, email, hireable, bio, 
                          public_repos, followers, following, created_at])
-
+    link_header = response.headers.get("Link", "")
+    if 'rel="next"' not in link_header:
+            break  # Exit loop if no more pages
+    page += 1
 print("Data saved to github_users_bangalore_detailed.csv")
